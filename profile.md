@@ -16,7 +16,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Advait Padaval.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Advait Padaval (Paddu)</h3>
@@ -32,7 +32,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Bhavini Jeloka.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Bhavini Jeloka</h1>
@@ -48,7 +48,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Aditya Iyengar.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Aditya Iyengar</h1>
@@ -66,7 +66,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Abir Mehta.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Abir</h3>
@@ -82,7 +82,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Akash Chodankar.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Akash Vivek Chodankar</h1>
@@ -98,10 +98,10 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Akshat Mehta.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
-                  <h1>Akshat Mehta </h1>
+                  <h1>Akshat Mehta</h1>
                   <p>I am part of the electrical subsystem of the Student Satellite team and really fond of space technology. I am interested in solid mechanics, thermodynamics and vehicle aerodynamics. I interned at an investment banking company as an equity research analyst in the summers.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                   <i class="fab fa-facebook-f"></i>
@@ -116,7 +116,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Anish Bang.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Anish Bang</h3>
@@ -132,7 +132,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Arpit Tiwari.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Arpit Tiwari</h1>
@@ -148,7 +148,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Aruja Khanna.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Aruja Khanna</h1>
@@ -166,7 +166,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Aryan Jain.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Aryan Jain</h3>
@@ -182,7 +182,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Bishop Prakash.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Bishop Prakash</h1>
@@ -198,7 +198,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Gagan Jain.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Gagan Jain</h1>
@@ -216,7 +216,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Gourav Chopra.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Gourav Chopra</h3>
@@ -232,7 +232,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Himanshu Neema.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Himanshu Neema</h1>
@@ -248,7 +248,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Hitansh Chandra.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Hitansh Chandra (Hittu)</h1>
@@ -266,7 +266,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Hiya Gada.png" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Hiya</h3>
@@ -282,7 +282,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Kalpesh Rathi.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Kalpesh Rathi</h1>
@@ -298,7 +298,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Kanishka Sunick.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Kanishka Sunick</h1>
@@ -316,7 +316,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Latika Patel.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Latika Patel</h3>
@@ -332,7 +332,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Leena Chaudhari.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Leena Chaudhari</h1>
@@ -348,7 +348,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Manisha Kopuri.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Manisha Kopuri</h1>
@@ -366,7 +366,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Mitalee Oza.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Mitalee Oza</h3>
@@ -382,7 +382,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Prasann Jaiswal.jfif" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Prasann Jaiswal</h1>
@@ -398,7 +398,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Prathik Reddy.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Prathik Reddy</h1>
@@ -416,7 +416,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Priyam Vijayvargia.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Priyam Vijayvargia</h3>
@@ -432,7 +432,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Rishi Kanodia.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Rishi Kanodia</h1>
@@ -448,7 +448,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Sahil Kumar.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Sahil Kumar</h1>
@@ -466,7 +466,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Sankalp Ananda Alone.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Sankalp Aloné</h3>
@@ -482,7 +482,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Shiven Barbare.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Shiven Barbare</h1>
@@ -498,7 +498,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Shruti.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Shruti Singh</h1>
@@ -516,7 +516,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Shubham Gupta.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Shubham Gupta</h3>
@@ -532,7 +532,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Shubham Lohiya.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Shubham Lohiya</h1>
@@ -548,7 +548,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Siddhant Wagh</h1>
@@ -566,7 +566,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Somya Singh.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Somya Singh</h3>
@@ -582,7 +582,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Suryansh Siddharth Singh.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Suryansh Singh</h1>
@@ -598,7 +598,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Tanul Gupta.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Tanul Gupta</h1>
@@ -616,7 +616,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Varun Pathak.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Varun Pathak </h3>
@@ -632,7 +632,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Vidyut Balaji.jpg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Vidyut Balaji</h1>
@@ -648,7 +648,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/profile_pics/Vikram Atreya.jpeg" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h1>Vikram Atreya</h1>
