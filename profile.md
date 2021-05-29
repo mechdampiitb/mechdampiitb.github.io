@@ -16,7 +16,7 @@ permalink: /profile
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img src="/assets/images/avatar.png" alt="Avatar" style="width:300px;height:300px;">
+                  <img src="/assets/images/" alt="Avatar" style="width:300px;height:300px;">
                </div>
                <div class="flip-card-back">
                   <h3>Advait Padaval (Paddu)</h3>
