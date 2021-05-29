@@ -352,7 +352,7 @@ permalink: /profile
                </div>
                <div class="flip-card-back">
                   <h1>Manisha Kopuri</h1>
-                  <p>I'm currently th Institute Athletics Secretary and was previously a Sports Convener. Have also been the Assistant Team Manager of IITB Racing. I've built o non-tech profile but my heart gravitates towards Fluid Mech. Currently involved in related project</p>
+                  <p>I'm currently the Institute Athletics Secretary and was previously a Sports Convener. Have also been the Assistant Team Manager of IITB Racing. I've built a non-core profile but my heart gravitates towards Fluid Mech. Currently involved in related project.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                   <i class="fab fa-facebook-f"></i>
                   </a>

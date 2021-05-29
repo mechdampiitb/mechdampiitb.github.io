@@ -940,7 +940,10 @@ iframe {
   
   /* Style the back side */
   .flip-card-back {
-    background-color:dodgerblue;
+    background-color:rgb(0, 0, 0);
     color: white;
     transform: rotateY(180deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    text-align: center;
   }
