@@ -7,6 +7,8 @@ permalink: /team
 
 <!-- Featured
 ================================================== -->
+
+
 <section class="featured-posts">
    <div class="row">
       <div class="col-lg-4 col-md-6 mb-30px ">
