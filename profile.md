@@ -43,7 +43,7 @@ permalink: /team
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Bhavini Jeloka</div>
                   <p style="padding-bottom:0; margin-bottom:0;">I am currently the DAMP Coordinator and have previously worked as an Academic Coordinator and DAMP mentor. I have been a part of Student Satellite Program since my first year, where I am in the Guidance, Navigation and Control Subsystem. My research interests include controls and robotics, mainly geometrical and optimal control. I love reading, writing and playing the keyboard and ukulele. </p>
-                  <a target="_blank" href="https://www.facebook.com/" style="line-height: 1px;">
+                  <a target="_blank" href="https://m.facebook.com/bhavini.jeloka.7" style="line-height: 1px;">
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
                      <a href = "mailto: abc@example.com">
@@ -684,7 +684,7 @@ permalink: /team
          <div class="flip-card">
             <div class="flip-card-inner">
                <div class="flip-card-front">
-                  <img class="mentor-image" src="/assets/images/profile_pics/" alt="Avatar">
+                  <img class="mentor-image" src="/assets/images/profile_pics/Siddhant Wagh.jpg" alt="Avatar">
                   <div class = "mentor-name-front">Siddhant Wagh</div>
                </div>
                <div class="flip-card-back">
