@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DAMP Cabinet
-permalink: /mentors
+permalink: /team
 ---
 
 
