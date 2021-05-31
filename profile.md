@@ -380,7 +380,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Kanishka Sunick</div>
-                  <p>Currently I am really interested in mathematical optimization & algorithms, leaning towards integer programming. Early years had fun with tech side of the insti and had exposure to multiple tech teams such as IITB Racing team for 1.5 years both as part of mech and elec subsystem, UMIC for a couple of months and some unofficial roles in others.</p>
+                  <p>Currently I am really interested in mathematical optimization & algorithms, leaning towards integer programming. In my early yeats, had exposure to multiple tech teams such as IITB Racing team for 1.5 years both as part of mech and elec subsystem, UMIC for a couple of months and some unofficial roles in others.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -402,7 +402,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Latika Patel</div>
-                  <p>I have been a part of the ITC since my second year. I was a convener at WnCC and a volunteer at ERC. I was the Institute Web and Coding Secretary owing to my growing interest in coding and software development. I have worked on a few web and app development projects and thus am familiar with quite a few frontend and backend frameworks. :)</p>
+                  <p>I have been a part of the ITC since my second year. I was a convener at WnCC & a volunteer at ERC. I was the Institute Web & Coding Secretary owing to my growing interest in coding & software development. Have worked on a few web & app development projects & familiar with quite a few frontend & backend frameworks. :)</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -526,7 +526,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Priyam Vijayvargia</div>
-                  <p>I am currently HDA Core Team Member at SARC. In my second year, I worked as Hostel 9 Alumni Secretary, SARC and Events coordinator at E-cell. I play badminton and was a part of NSO and Inter-IIT camp in my freshman year. I have had the experience to be a Ch307 TA. I love to explore new horizons and network with people!</p>
+                  <p>Currently the HDA Core Team Member at SARC. In my second year, I worked as Hostel 9 Alumni Secretary, SARC & Events coordinator at E-cell. I play badminton & was a part of NSO & Inter-IIT camp in my first year. I have had the experience to be a CH307 TA.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -546,7 +546,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Rishi Kanodia</div>
-                  <p> I have made models, interned in an EV startup and participated in InterIIT EV Simulation. Recently, I have started to read a lot about ML and finance. I am a member of IITB Racing team, under Vehicle Dynamics subdivision. I'm good with Matlab & Simulink and all nit-bits of how automobiles work. I am also enthusiastic about culturals, dramatics in particular. </p>
+                  <p> I have made models, interned in an EV startup & participated in InterIIT EV Simulation. Recently, started to read about ML and finance. I am a member of IITB Racing team, under Vehicle Dynamics subdivision, good with Matlab & Simulink and all nit-bits of how automobiles work. Enthusiastic about culturals & dramatics. </p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -566,7 +566,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Sahil Kumar</div>
-                  <p>Currently the Institute Lawn Tennis Secretary. Was also a Sports Convener . Apart from that, I'm a part of IITB Racing's Editorial Team for the official magazine- Milestone. I was a part of ELIT as a TA  and then was a TA in MA-111. I'm the type of guy who has a slight inclination towards non-core, but again mech core isn't too far behind either on my list.  </p>
+                  <p>Currently the Institute Lawn Tennis Secretary, was also a Sports Convener . I'm a part of IITB Racing's Editorial Team for the official magazine- Milestone. I was a part of ELIT as a TA  and then was a TA in MA-111. I'm the type of guy who has a slight inclination towards non-core, but again mech core isn't too far behind either on my list.  </p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
