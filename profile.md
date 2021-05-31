@@ -26,7 +26,7 @@ permalink: /team
                      <a target="_blank" href="https://m.facebook.com/advait.padaval.3?ref=bookmarks" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
-                     <a href = "mailto: ">
+                     <a href = "mailto: advait.padaval@gmail.com">
                         <i class="fa fa-envelope flip-card-icon"></i>
                      </a>
                   </div>
@@ -47,7 +47,7 @@ permalink: /team
                   <a target="_blank" href="https://m.facebook.com/bhavini.jeloka.7" style="line-height: 1px;">
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
-                     <a href = "mailto: advait.padaval@gmail.com ">
+                     <a href = "mailto: jelokab@gmail.com">
                         <i class="fa fa-envelope flip-card-icon"></i>
                      </a>
                </div>
