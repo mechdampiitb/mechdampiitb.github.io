@@ -156,7 +156,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Anish Bang</div>
-                  <p>I'm a sports enthusiast and the current Institute Cricket Secretary. My interest is towards non core side (mainly consult).Been a part of the Institute Sports Council and also actively participated in InSync.</p>
+                  <p>I'm a sports enthusiast and the current Institute Cricket Secretary. My interest is towards non core side (mainly consult). Been a part of the Institute Sports Council and also actively participated in InSync.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -316,7 +316,7 @@ permalink: /team
             <div class="flip-card-inner">
                <div class="flip-card-front">
                   <img class="mentor-image" src="/assets/images/profile_pics/Hitansh Chandra.jpg" alt="Avatar">
-                  <div class = "mentor-name-front">Hittu</div>
+                  <div class = "mentor-name-front">Hitansh Chandra</div>
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Hitansh Chandra (Hittu)</div>
