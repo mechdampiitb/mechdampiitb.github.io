@@ -156,7 +156,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Anish Bang</div>
-                  <p>"I'm a sports enthusiast and the current institute Cricket Secretary. My interest is towards non core side ( mainly consult).Been a part of sports council and also actively participated in insync. "</p>
+                  <p>I'm a sports enthusiast and the current Institute Cricket Secretary. My interest is towards non core side (mainly consult).Been a part of the Institute Sports Council and also actively participated in InSync.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -342,7 +342,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Hiya</div>
-                  <p>My research interest include the domains of SysCon. I am a part of UMIC and worked in controls subsystem in Aerove. I have been a member of the "Core group" and an active participant in Symphony,</p>
+                  <p>My research interests include Geometric mechanics, Localisation and SysCon. I am a part of the controls subsystem in Team AeRoVe. I have also been an active participant with Symphony. I love to read, write, sing and compose music.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
