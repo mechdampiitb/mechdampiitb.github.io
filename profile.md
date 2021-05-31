@@ -10,6 +10,7 @@ permalink: /team
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
 
+
 <section class="featured-posts">
    <div class="row">
       <div class="col-lg-4 col-md-6 mb-30px ">
@@ -670,7 +671,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Shubham Lohiya</div>
-                  <p>I'm enthusiastic about AI, Robotics, and Economics. I'm pursuing dual minor degrees CS & C-MINDS. I'm currently involved in research in the fields of Reinforcement Learning and NLP. I have also been heavily involved with the ITC throughout my stay at Insti and have served as the Institue Electronics and Robotics Secretary.</p>
+                  <p>I'm enthusiastic about AI, Robotics, and Economics. I'm pursuing dual minor degrees in CS & C-MINDS. I'm currently involved in research in the fields of Reinforcement Learning and NLP. I have also been heavily involved with the ITC throughout my stay at Insti and have served as the Institue Electronics and Robotics Secretary.</p>
                   <a target="_blank" href="https://www.facebook.com/shub.mark42/ " >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
