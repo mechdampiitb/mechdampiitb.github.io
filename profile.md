@@ -8,9 +8,7 @@ permalink: /team
 <!-- Featured
 ================================================== -->
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
 
 <section class="featured-posts">
    <div class="row">
@@ -45,7 +43,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Bhavini Jeloka</div>
-                  <p style="padding-bottom:0; margin-bottom:0;">I am currently the DAMP Coordinator and have previously worked as an Academic Coordinator and DAMP mentor. I have been a part of Student Satellite Program since my first year, where I am in the Guidance, Navigation and Control Subsystem. My research interests include controls and robotics, mainly geometrical and optimal control. I love reading, writing and playing the keyboard and ukulele. </p>
+                  <p style="padding-bottom:0; margin-bottom:0;">I am currently the DAMP Coordinator and have previously worked as an Academic Coordinator and DAMP mentor. I have been a part of Student Satellite Program since my first year, where I am in the Guidance, Navigation and Control Subsystem. My research interests include controls and robotics, mainly geometrical and optimal control.</p>
                   <a target="_blank" href="https://m.facebook.com/bhavini.jeloka.7" style="line-height: 1px;">
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -113,7 +111,7 @@ permalink: /team
                   <div class = "mentor-name-front">Akash Chodankar</div>
                </div>
                <div class="flip-card-back">
-                  <div class = "mentor-name-back">Akash Vivek Chodankar</div>
+                  <div class = "mentor-name-back">Akash Chodankar</div>
                   <p>I have volunteered for E-cell for nearly 2 years; I am interested in entrepreneurship and economics related stuff. My interest also lie in ML/AI and competitive programming. I like playing chess and was a part of NSO and other tournaments in the institute and beyond. </p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
@@ -238,7 +236,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Bishop Prakash</div>
-                  <p>I have been a part of UMIC, and currently I'm the mech subsystem head for the Aerove Team. Mechanical designing is one my major interests, other than that I enjoy coding simple problems in my free time. Also, I love reading about the "Cosmos", right from Space missions to the working of the universe itself. Apart from that I have taken TA-ship for CE102.</p>
+                  <p>I have been a part of UMIC, and currently I'm the mech subsystem head for the Aerove Team. Mechanical designing is one my major interests, other than that I enjoy coding simple problems in my free time. Also, I love reading about the "Cosmos", right from Space missions to the working of the universe itself.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -258,7 +256,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Gagan Jain</div>
-                  <p>My primary research interests revolve around the field of robotics and deep learning, with special emphasis on reinforcement learning, optimal control and computer vision. I'm a part of the technical team UMIC since my freshmen year. I've been a part of the IITB contingent for the Inter IIT Tech Meet. I was the Department Research Coordinator in 2020-21.</p>
+                  <p>My primary research interests revolve around the field of robotics & deep learning, with special emphasis on reinforcement learning, optimal control & computer vision. I'm a part of team UMIC. I've been a part of the IITB contingent for the Inter IIT Tech Meet. I was the Department Research Coordinator in 2020-21.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
@@ -319,7 +317,7 @@ permalink: /team
                   <div class = "mentor-name-front">Hitansh Chandra</div>
                </div>
                <div class="flip-card-back">
-                  <div class = "mentor-name-back">Hitansh Chandra (Hittu)</div>
+                  <div class = "mentor-name-back">Hitansh Chandra</div>
                   <p>Continuing my 2nd tenure as a DAMP mentor, I have previously been the Institute Lawn Tennis Secretary. I was a sports convener and an administrative coordinator for MI. I am always up for any kind of discussions related to any PoR or anything in the institute that bothers you.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
@@ -382,7 +380,7 @@ permalink: /team
                </div>
                <div class="flip-card-back">
                   <div class = "mentor-name-back">Kanishka Sunick</div>
-                  <p>Currently I am really interested in mathematical optimization and algorithms. More and more leaning towards integer programming. Early years had fun with tech side of the insti and had exposure to multiple tech teams such as IITB Racing team for 1.5 years both as part of mech and elec subsystem, UMIC for a couple of months and some unofficial roles in others.</p>
+                  <p>Currently I am really interested in mathematical optimization & algorithms, leaning towards integer programming. Early years had fun with tech side of the insti and had exposure to multiple tech teams such as IITB Racing team for 1.5 years both as part of mech and elec subsystem, UMIC for a couple of months and some unofficial roles in others.</p>
                   <a target="_blank" href="https://www.facebook.com/" >
                         <i class="fab fa-facebook-f flip-card-icon"></i>
                      </a>
