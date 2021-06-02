@@ -4,7 +4,7 @@ title:  "The Branch Change Dilemma"
 categories: [FAQS, First Year]
 tags: [faqs]
 image: assets/images/bc.jpeg
-featured: false
+featured: true
 hidden: false
 ---
 
