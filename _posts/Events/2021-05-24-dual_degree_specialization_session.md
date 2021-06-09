@@ -3,7 +3,7 @@ layout: post
 title:  "Dual Degree Specialization Session (2021)"
 categories: [sessions, First Year, Second Year, Third Year]
 tags: [events]
-image: assets/images/Events/wherearetheynow.jpg
+image: \assets\images\Events\dual_degree_specialization.png
 featured: true
 hidden: false
 ---
