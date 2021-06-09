@@ -26,13 +26,13 @@ Athul branched changed from Aerospace to Mechanical DD in his second year. He wa
 Naman also decided to opt for DD after his third year. He was not very interested in the Core part of Mech and wanted to dive into coding, ML, or AI. He decided to opt for specialization in CIM after he had a chance to do a project with Professor Amber Shrivastava related to Computer Vision. His DDP project is based on Computer vision itself for the Detection of Defects in Welding. He also highlighted that if someone is interested in fields like AI, ML, Data analytics, there are professors in Mech who are working in these domains combining CIM/Mech with Data analytics/Machine Learning techniques.
 
 ### Q&A
-* How Math intensive are SysCon (CADA) courses?  
+* **How Math intensive are SysCon (CADA) courses?**  
 Typically they are heavy in maths. Check SysCon MTech (1 year) courses, these are not so heavy, but follow-up courses to these will be rigorous in maths. Sitting through a few weeks of lectures and reading course reviews could be an excellent point to start to see if your interest aligns with the topic.
 
-* What is the ideal timeline for DDP?  
+* **What is the ideal timeline for DDP?**  
 The ideal period for the DDP Is 14 months; one could start working on the project after the end of the 8th semester, i.e., in the summers.
 
-* What are the possible ways for finalizing your DDP problem statement?  
+* **What are the possible ways for finalizing your DDP problem statement?**  
 Here are some of the listed possible ways:
 1. There are many profs who have their own labs so that they could list out some potential problem statements.
 2. There are some profs who don’t have labs but have their own problem statements.
