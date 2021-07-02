@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dual Degree Conversion Session"
+title:  "Dual Degree Conversion Session (2020)"
 categories: [sessions, Second Year, Third Year]
 tags: [events]
 image: assets/images/Events/ddsession.jpg

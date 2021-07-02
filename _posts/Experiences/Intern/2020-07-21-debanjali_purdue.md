@@ -4,7 +4,7 @@ title:  "Purdue Research Intern"
 categories: [Core, Intern]
 tags: [experiences]
 image: assets/images/Interns/purdue_debanjali.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
