@@ -4,7 +4,7 @@ title: "SC631 - Games and Information"
 categories: [core courses]
 tags: [courses]
 image: assets/images/Course Reviews/Core/ce102.png
-featured: true
+featured: false
 hidden: false
 ---
   
@@ -60,7 +60,7 @@ The last part of the course on dynamic multi-agent games is quite interesting an
 For starters, it is a part of the DS minor basket. Unsurprisingly, it has a lot of relevance in reinforcement learning and other multi-agent as well as adversarial learning problems.  
 Although the course leans towards the informational side of game theory, the general ideas are also very handy in finance and economics.  
   
-#### My Recommendation  
+#### How strongly would I recommend this course?  
 Quite strongly, game theory is everywhere. If not for the various applications mentioned several times in this review, it helps you think more analytically while trying to solve simple day-to-day problems :-p  
   
 #### When to take this course?  
