@@ -10,6 +10,7 @@ permalink: /team
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
 
+<title>Team</title>
 <section class="featured-posts">
    <div class="section-title">
          <h2><span>DAMP cabinet</span></h2>
