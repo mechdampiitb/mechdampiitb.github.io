@@ -3,7 +3,7 @@ layout: post
 title: "ME311 - Microprocessors and Automatic Control"
 categories: [core courses]
 tags: [courses]
-image: assets/images/Course Reviews/Core/ce102.png
+image: assets/images/Course Reviews/Core/ME311.jpg
 featured: false
 hidden: false
 ---

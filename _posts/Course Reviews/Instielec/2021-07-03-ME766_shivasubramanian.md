@@ -3,7 +3,7 @@ layout: post
 title: "ME766 - High Performance Scientific Computing"
 categories: [core courses]
 tags: [courses]
-image: assets/images/Course Reviews/Core/ce102.png
+image: assets/images/Course Reviews/Insti/ME766.jpg
 featured: false
 hidden: false
 ---

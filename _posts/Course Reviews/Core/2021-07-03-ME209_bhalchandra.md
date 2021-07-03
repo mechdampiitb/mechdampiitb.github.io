@@ -3,7 +3,7 @@ layout: post
 title: "ME209 - Thermodynamics"
 categories: [core courses]
 tags: [courses]
-image: assets/images/Course Reviews/Core/ce102.png
+image: assets/images/Course Reviews/Core/me209.png
 featured: false
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ME617 - Rapid Product Development"
 categories: [core courses]
 tags: [courses]
-image: assets/images/Course Reviews/Core/ce102.png
+image: assets/images/Course Reviews/Insti/ME617.jpg
 featured: false
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "IE643 - Deep Learning"
 categories: [core courses]
 tags: [courses]
-image: assets/images/Course Reviews/Core/ce102.png
+image: assets/images/Course Reviews/Insti/IE643.jpg
 featured: false
 hidden: false
 ---

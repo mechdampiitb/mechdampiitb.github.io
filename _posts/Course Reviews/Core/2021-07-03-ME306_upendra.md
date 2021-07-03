@@ -3,7 +3,7 @@ layout: post
 title: "ME306 - Applied Thermodynamics"
 categories: [core courses]
 tags: [courses]
-image: assets/images/Course Reviews/Core/ce102.png
+image: assets/images/Course Reviews/Core/ME306.jpg
 featured: false
 hidden: false
 ---
