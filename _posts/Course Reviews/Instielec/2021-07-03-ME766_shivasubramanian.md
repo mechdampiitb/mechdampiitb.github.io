@@ -38,7 +38,7 @@ No mandatory attendance
 #### Pre-requisites
 Knowledge of basic C/C++ and basic use of Linux terminal can be helpful although this can be learnt along the course as well by putting little more efforts.
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 The evaluation was based on three coding assignments (which accounted for 20% of the grade) and a course project(which accounted for 80% of the total grade) Good performance in the course project, therefore, was crucially important for a good grade.IN assignments almost all got the marks for the submission only:)
 
 #### Topics Covered in the Course

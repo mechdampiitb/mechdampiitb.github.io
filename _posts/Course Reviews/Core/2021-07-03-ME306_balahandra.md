@@ -40,7 +40,7 @@ None
 #### Pre-requisites
 ME 209
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 Best 5 out of 6 quizzes with 12% weightage  
 40% weightage for endsem
 

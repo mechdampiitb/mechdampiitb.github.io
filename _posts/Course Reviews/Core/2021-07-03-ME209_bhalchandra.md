@@ -32,7 +32,7 @@ None
 #### Pre-requisites
 None. Extremely fundamental course. Starts from scratch. Serves as a starter to what comes next in Mechanical Engineering
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 Quizzes (Best 3 out of 4; 15% each) : 45%  
 Semester Assignment : 15%  
 Midsem : not conducted  

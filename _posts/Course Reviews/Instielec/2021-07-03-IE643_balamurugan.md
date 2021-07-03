@@ -36,7 +36,7 @@ Total	87
 The course instructor asked sophomores to de-register when I took this course.  
 Basic knowledge of Linear Algebra is expected (MA106 is more than enough) 
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 Mid-Term Exam: 20%  
 Quiz: 10%  
 Assignments (Theoretical / Programming): 10%  

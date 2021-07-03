@@ -30,7 +30,7 @@ Not compulsory
 #### Pre-requisites
 Considerable mastery over the content of MA108 (ODE theory, Laplace Transforms) is almost essential to ace the course, although the professors may cover things at a slow enough pace that it is easy to understand from scratch.
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 20% Weekly Tutorials (8 total)  
 15% Best 2 out of 3 Quizzes  
 25% Midsem  

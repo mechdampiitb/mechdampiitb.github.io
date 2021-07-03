@@ -32,7 +32,7 @@ None
 #### Pre-requisites
 JEE thermodynamics
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 10% HWs  
 25% quiz1/midsem  
 25% quiz 2  

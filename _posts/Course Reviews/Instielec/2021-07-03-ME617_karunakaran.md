@@ -29,7 +29,7 @@ Compulsory attendance else grade penalty may or may not be imposed.
 #### Pre-requisites
 None
 
-#### Evaluation Scheme and Weightages
+#### Evaluation Scheme
 50% for best of 5 out of 6 quizzes and 50% for project
 
 #### Topics Covered in the Course
