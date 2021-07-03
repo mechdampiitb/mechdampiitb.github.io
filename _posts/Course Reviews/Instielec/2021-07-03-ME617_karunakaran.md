@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME617 - Rapid Product Development"
-categories: [core courses]
+categories: [insti electives]
 tags: [courses]
 image: assets/images/Course Reviews/Insti/ME617.jpg
 featured: false

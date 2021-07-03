@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IE643 - Deep Learning"
-categories: [core courses]
+categories: [insti electives]
 tags: [courses]
 image: assets/images/Course Reviews/Insti/IE643.jpg
 featured: false

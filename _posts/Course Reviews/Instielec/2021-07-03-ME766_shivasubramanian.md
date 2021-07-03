@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME766 - High Performance Scientific Computing"
-categories: [core courses]
+categories: [insti electives]
 tags: [courses]
 image: assets/images/Course Reviews/Insti/ME766.jpg
 featured: false
