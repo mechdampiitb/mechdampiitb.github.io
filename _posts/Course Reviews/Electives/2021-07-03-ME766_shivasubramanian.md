@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME766 - High Performance Scientific Computing"
-categories: [insti electives]
+categories: [dept electives, insti electives, ALC, Acoustics, Artificial Intelligence / Machine Learning, Automation, Autonomous Systems, Biotechnology, Control Systems, Fluid Mechanics / Dynamics, Manufacturing and additive manufacturing, Robotics, Thermodynamics / Heat Transfer, Basically can be used for any research purposes]
 tags: [courses]
 image: assets/images/Course Reviews/Insti/ME766.jpg
 featured: false

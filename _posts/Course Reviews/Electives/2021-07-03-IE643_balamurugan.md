@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IE643 - Deep Learning"
-categories: [insti electives]
+categories: [dept electives, insti electives, ALC, Artificial Intelligence / Machine Learning, Robotics]
 tags: [courses]
 image: assets/images/Course Reviews/Insti/IE643.jpg
 featured: false
