@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME311 - Microprocessors and Automatic Control"
-categories: [core courses]
+categories: [automation, automotive, autonomous systems, control systems, robotics, ME]
 tags: [courses]
 image: assets/images/Course Reviews/Core/ME311.jpg
 featured: false

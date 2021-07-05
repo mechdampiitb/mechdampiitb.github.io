@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME306 - Applied Thermodynamics"
-categories: [core courses]
+categories: [acoustics, aerospace, automation, automotive, energy, thermodynamics / heat transfer, ME]
 tags: [courses]
 image: assets/images/Course Reviews/Core/ME306.jpg
 featured: false

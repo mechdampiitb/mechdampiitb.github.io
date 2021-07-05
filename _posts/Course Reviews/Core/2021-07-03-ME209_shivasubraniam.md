@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME209 - Thermodynamics"
-categories: [core courses]
+categories: [thermodynamics / heat transfer, ME]
 tags: [courses]
 image: assets/images/Course Reviews/Core/me209.png
 featured: false

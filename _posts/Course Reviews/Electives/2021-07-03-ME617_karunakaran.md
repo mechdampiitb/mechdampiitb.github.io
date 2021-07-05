@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ME617 - Rapid Product Development"
-categories: [dept electives, ALC, Computer Aided Design (CAD), Design, Ergonomics, Manufacturing and additive manufacturing]
+categories: [dept electives, alc, computer aided design (cad), design, ergonomics, manufacturing and additive manufacturing, ME]
 tags: [courses]
 image: assets/images/Course Reviews/Insti/ME617.jpg
 featured: false
