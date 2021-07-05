@@ -58,4 +58,4 @@ Lectures - I suggest watching these before quizzes if you have not attended them
 #### Feedback on Exams
 All quizzes were quite easy with generous marking. End semester was  significantly more challenging than the quizzes
 
-*Review By:* Abir Mehta
+*ME 306 Review By:* Abir Mehta

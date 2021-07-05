@@ -64,4 +64,4 @@ For the parts on ODE theory and LTI systems, "Signals and Systems" by Oppenheim 
 #### Other Remarks
 Attend classes, or at least try to regularly catch up on the recordings! This is one of the more demanding courses.
 
-*Review By:* Aditya Iyengar
+*ME 311 Review By:* Aditya Iyengar

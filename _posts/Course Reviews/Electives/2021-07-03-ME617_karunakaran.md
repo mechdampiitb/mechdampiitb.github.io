@@ -56,4 +56,4 @@ For students wanting to get into product development and additive manufacturing,
 #### When to take this course?
 8th semester. Ideal time would be taking it in 6th or 8th semester.
 
-*Review By:* Kanishka Sunick
+*ME 617 Review By:* Kanishka Sunick

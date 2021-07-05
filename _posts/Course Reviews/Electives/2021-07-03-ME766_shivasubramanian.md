@@ -70,4 +70,4 @@ I took this in my 4th semester but according to the prof it is recommended to ta
 #### References Used
 Slides and the resources provided by the instructor are enough.
 
-*Review By:* Arpit Tiwari
+*ME 766 Review By:* Arpit Tiwari

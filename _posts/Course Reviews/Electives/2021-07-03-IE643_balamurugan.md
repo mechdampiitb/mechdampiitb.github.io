@@ -66,4 +66,4 @@ This course is recommended for anyone who is looking for a more mathematical und
 Look out for IE 663 - Advanced Topics in Deep Learning taken by the same professor in the following semester.  Also consider EE 782 - Advanced Topics in Machine Learning by Prof. Amit Sethi (odd semester), CS726 - Advanced Machine Learning by Prof. Sunita Sarawagi (even semester)  
 
 
-*Review By:* Shubham Lohiya
+*IE 643 Review By:* Shubham Lohiya
