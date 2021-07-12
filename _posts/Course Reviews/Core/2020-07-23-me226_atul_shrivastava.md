@@ -26,7 +26,7 @@ Not much time required, revision was required every day since there were surpris
 #### Grading
 Grading was quite chill. Adequate distribution of grades was done. 
 
-#### Attendence Policy
+#### Attendance Policy
 No attendance, only surprise quizzes, but most of the content was on board, and sir was usually reluctant to upload the ppts used.
 
 #### Pre-requisites

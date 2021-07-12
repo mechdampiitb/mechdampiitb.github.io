@@ -23,7 +23,7 @@ Chill
 #### Grading Policy and Statistics
 Relative grading AA-8, AB-9, FR-1
 
-#### Attendence Policy
+#### Attendance Policy
 Compulsory attendance else grade penalty may or may not be imposed. 
 
 #### Pre-requisites

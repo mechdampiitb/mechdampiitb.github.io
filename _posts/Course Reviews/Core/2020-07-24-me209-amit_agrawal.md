@@ -26,7 +26,7 @@ Initially, it is easy to cope up with the course without much extra effort altho
 #### Grading
 Strict (Caution! ‘Only’ 6 AAs in a class of approximately 80)
 
-#### Attendence Policy
+#### Attendance Policy
 None except pre-decided tutorials (which accounted for the attendance) were graded
 
 #### Pre-requisites

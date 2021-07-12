@@ -34,7 +34,7 @@ CD	13
 DD	16  
 FF	2
 
-#### Attendence Policy
+#### Attendance Policy
 None
 
 #### Pre-requisites

@@ -26,7 +26,7 @@ Moderately difficult. The course is an introduction to some of the manufacturing
 #### Grading
 Lenient
 
-#### Attendence Policy
+#### Attendance Policy
 No DX grade was given. 4% bonus marks were given for attendance >90%, 2% bonus for 80% < attendance < 90%
 
 #### Pre-requisites

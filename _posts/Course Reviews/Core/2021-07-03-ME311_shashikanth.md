@@ -24,7 +24,7 @@ Reasonable efforts were required to be put in outside class hours.
 Quite unremarkable.  
 14 AAs, 21 ABs, 38 BBs out of 168 students. On the positive side, only 2 FR grades were awarded.
 
-#### Attendence Policy
+#### Attendance Policy
 Not compulsory
 
 #### Pre-requisites

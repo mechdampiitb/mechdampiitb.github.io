@@ -26,7 +26,7 @@ The initial part is fairly easy similar to the Jee stuff. After quiz 1 things be
 #### Grading
 Moderate
 
-#### Attendence Policy
+#### Attendance Policy
 Compulsory Attendance
 
 #### Pre-requisites

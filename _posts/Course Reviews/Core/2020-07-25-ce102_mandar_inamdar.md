@@ -26,7 +26,7 @@ The initial half of the course is comparatively easy as it involves just the rev
 #### Grading
 Absolute (80+ AA and so on) but chill 
 
-#### Attendence Policy
+#### Attendance Policy
 80% attendance compulsory, else DX grade
 
 #### Pre-requisites

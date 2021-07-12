@@ -59,7 +59,7 @@ if __name__ == "__main__":
     'Feedback on Tutorials/Assignments/Projects etc.', 'Feedback on Exams', 'Highlights of the course',
     'Comments on Course Importance', 'Going Forward', 'References Used', 'Other Remarks', 'Interesting relevant links']
     new_cols = ['Name', 'Course Code', 'Course Name', 'Instructor', 'Section', 'Semester', 'Course Difficulty', 'Time Commitment Required',
-        'Grading Policy and Statistics', 'Attendence Policy', 'Pre-requisites', 'Evaluation Scheme',
+        'Grading Policy and Statistics', 'Attendance Policy', 'Pre-requisites', 'Evaluation Scheme',
         'Topics Covered in the Course', 'Teaching Style', 'Tutorials/Assignments/Projects', 'Feedback on Exams',
         'Course Highlights', 'Course Importance', 'Going Forward', 'References Used', 'Other Remarks', 'Interesting relevant links']
     assert len(cols) == len(new_cols)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
             'When did you take this course? What will be the ideal semester for taking this course? ',
             'Going Forward', 'References Used', 'Other Remarks', 'Interesting relevant links']
     new_cols = ['Name', 'Course Code', 'Course Name', 'Instructor', 'Semester', 'Course Difficulty', 'Time Commitment Required',
-        'Grading Policy and Statistics', 'Attendence Policy', 'Pre-requisites', 'Evaluation Scheme',
+        'Grading Policy and Statistics', 'Attendance Policy', 'Pre-requisites', 'Evaluation Scheme',
         'Topics Covered in the Course', 'Teaching Style', 'Tutorials/Assignments/Projects', 'Feedback on Exams', 
         'Motivation for taking this course', 'Course Highlights', 'Course Importance', 'How strongly would I recommend this course?',
                 'When to take this course?',  'Going Forward', 'References Used', 'Other Remarks', 'Interesting relevant links']

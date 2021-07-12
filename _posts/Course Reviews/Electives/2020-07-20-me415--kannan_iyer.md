@@ -26,7 +26,7 @@ Weekly assignments require around 5-6 hours to solve.
 #### Grading
 Not that chill, professor can change the weightage if he feels that students haven’t performed well in the exams.
 
-#### Attendence Policy
+#### Attendance Policy
 80 % required but not enforced. 
 
 #### Pre-requisites

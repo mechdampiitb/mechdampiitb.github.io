@@ -20,7 +20,7 @@ Attending lectures would be enough to cover the theoretical base while actual un
 #### Grading
 Moderately strict (8 AAs and 7 ABs and  in a class of approximately 73)
 
-#### Attendence Policy
+#### Attendance Policy
 Attendance above 90% ensure full 5 points in the final evaluation, and a linear mapping was followed for attendance below 90%
 
 #### Pre-requisites

@@ -26,7 +26,7 @@ Low-Medium. Staying regular with lectures helps
 #### Grading Policy and Statistics
 Normal. Around 10% AAs, 15% ABs so on
 
-#### Attendence Policy
+#### Attendance Policy
 None
 
 #### Pre-requisites

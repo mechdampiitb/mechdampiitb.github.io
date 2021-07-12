@@ -26,7 +26,7 @@ Self study requires around 4 hours per week since there are readings that are to
 #### Grading
 All I remember is that the grading was apt, neither too loose nor too strict (I do not remember and Asc is not accessible )
 
-#### Attendence Policy
+#### Attendance Policy
 No such policy, but we used to have in class quizzes as well as online flash quizzes over apps so you need to be present for those 
 
 #### Pre-requisites

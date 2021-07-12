@@ -31,7 +31,7 @@ The course demands time before examinations. Microeconomics is more relaxed comp
 #### Grading
 Grading was relative and was done leniently. 
 
-#### Attendence Policy
+#### Attendance Policy
 Institute attendance policy was enforced in the first half of course: microeconomics
 
 #### Pre-requisites

@@ -32,7 +32,7 @@ W	1
 Total	287  
 
 
-#### Attendence Policy
+#### Attendance Policy
 No mandatory attendance
 
 #### Pre-requisites

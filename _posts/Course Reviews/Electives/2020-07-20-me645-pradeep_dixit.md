@@ -26,7 +26,7 @@ You’ll have to go through the lecture slides for exams, so if you have attende
 #### Grading
 Decent enough. BB can be achieved with average effort. If you do a little more than average then AB/AA is also possible 
 
-#### Attendence Policy
+#### Attendance Policy
 Not mandatory, although he’ll mock you if you suddenly appear in the class after weeks :/
 
 #### Pre-requisites

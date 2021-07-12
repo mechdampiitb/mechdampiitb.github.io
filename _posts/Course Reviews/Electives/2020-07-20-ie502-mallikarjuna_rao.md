@@ -26,7 +26,7 @@ A majority part of the course was already taught to us in the 11th-12th standard
 #### Grading
 Grading was chill. But only 4 AAs were given out of around 100 students. AB was given to a lot of students (around 30 students got AB).
 
-#### Attendence Policy
+#### Attendance Policy
 Prof asked to mark attendance on SAFE App but did not give any DX grade. However, you should attend all the classes.
 
 #### Pre-requisites

@@ -26,7 +26,7 @@ The classes are worth 3 hours per week. There were a total of 5 assignments in t
 #### Grading
 In 2019, 1 AA was awarded (to the highest scorer), and relative to his/her score, the other grades were allotted. 4 AB’s was allotted, and a similar number of BB’s in a total of nearly 30 students. I would say it’s not the chillest courses in grading, but not the worst either. The highest course total was around 75/100, and the mean was around 45-50/100
 
-#### Attendence Policy
+#### Attendance Policy
 No attendance policy. However, there are 2 surprise quizzes, one pre-mid sem and one post-midsem, combined weightage of 5-10%. The pre-mid sem quiz should be relatively easy for everyone as it is a repetition of ME219. The post-mid sem quiz requires the student to have some knowledge of the material covered in lectures. Overall, moderately tough. The quizzes were both conducted near the mid sem/end sem week
 
 #### Pre-requisites

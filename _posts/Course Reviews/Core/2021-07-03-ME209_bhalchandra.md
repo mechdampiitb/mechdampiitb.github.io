@@ -26,7 +26,7 @@ The initial part of the course is easy to cope up with, without much extra effor
 #### Grading Policy and Statistics
 A little on the stricter side (5 AAs out of a batch of 70 were given)
 
-#### Attendence Policy
+#### Attendance Policy
 None
 
 #### Pre-requisites

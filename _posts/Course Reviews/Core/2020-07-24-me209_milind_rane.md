@@ -26,7 +26,7 @@ Someone attending lectures might not need self-study of more than 1 hr a week (r
 #### Grading
 Chill-est! (Highest score gets an AP, and then relative grading - mostly 90%, 80% and so on of highest score are set as cutoffs).
 
-#### Attendence Policy
+#### Attendance Policy
 None
 
 #### Pre-requisites
