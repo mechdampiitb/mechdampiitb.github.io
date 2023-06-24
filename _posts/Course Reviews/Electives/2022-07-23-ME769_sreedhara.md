@@ -1,0 +1,109 @@
+---
+layout: post
+title: "ME769 - Combustion in Automobile and Gas Turbine Engines"
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/ME769.jpg
+featured: false
+hidden: false
+---
+
+#### Instructor
+Prof. Sreedhara Sheshadri
+
+#### Semester
+Spring '21
+
+#### Course Difficulty
+Moderate
+
+#### Time Commitment Required
+3 hrs./week for lectures, No self study required.
+
+#### Grading Policy and Statistics
+Relative grading(Based on highest class score)   
+  
+AA	5  
+AB	10  
+BB	14  
+BC	20  
+CC	11  
+CD	2  
+DD	4
+
+#### Attendance Policy
+No attendance policy enforced
+
+#### Pre-requisites
+Recommended: Thermodynamics, Heat Transfer  
+Optional: Applied Thermodynamics(ME 306), Fuels and Combustion(ME 760)  
+  
+Optional courses have some subparts of this course covered in depth
+
+#### Evaluation Scheme
+Assignment(3 + 1-Paper review) 20 %  
+Quiz/Class tests (2, pre/post midsem) 15%  
+Mid-semester test of 2 hour duration: 25 %  
+End-sem exam of 3 hours duration: 40 %
+
+#### Topics Covered in the Course
+Introduction and Cycles: IC engines classifications, Air standard cycles, Fuel air and actual cycles, Comparison of cycles, Numerical problems.   
+  
+Thermodynamics of Combustion: Combustion stoichiometry, Thermochemistry, Chemical equilibrium, Chemical kinetics.  
+  
+Combustion in SI and CI engines : Stages of combustion, knocking combustion and factors affecting knocking/detonation.  
+  
+Miscellaneous chapters: Testing and performance of IC engines, DISC engines, HCCI engines.  
+  
+Introduction to Gas Turbine: Brayton cycle, components and working principles of a gas turbine, Diffuser geometry, performance, Pressure loss parameter, Jet mixing, axial/radial swirler Combustor Requirements, Types of combustors, Flame stabilization,  
+Wall cooling, Jet mixing, Combustor noise and instability.  
+  
+Formation of engine emissions: Ill effects of emissions, Emission standards and regulations, Sources of emissions, Emission in automobile and gas turbine, Emission control technologies.  
+  
+Fuel injection: Injection system for automobiles and gas turbine. Alternative fuels: Alternative fuels for automobile and gas turbine Modelling: Basics of modelling techniques for automobile and gas turbine. Basics of turbulence modeling and combustion modelling
+
+#### Teaching Style
+Microsoft teams was the primary platform for lectures and google meets for exams. The slides were very well prepared and detailed. 
+
+#### Tutorials/Assignments/Projects
+3 Assignments involving numerical problems and coding assignments based on each chapter. 4th Assignment included preparing an overview report of any research paper on IC engines or Combustion technologies published in recent years.
+
+#### Feedback on Exams
+Quizzes - two short(1hr) quizzes   
+Midsem, Endsem - Similar pattern containing a few numerical questions and True/False questions
+
+#### Motivation for taking this course
+I was quite interested in learning about IC engines.
+
+#### How strongly would I recommend this course?
+I would highly recommend this course to those interested in learning about various aspects of IC engines and Gas turbines.
+
+#### When to take this course?
+I took this course in my 6th Semester, Usually the course runs in only spring semesters. I would recommend to take it in the 6th or 8th semester.
+
+#### References Used
+1. Pundir B.P, IC engines: Combustion and emissions, Narosa  
+Publishing house (New Delhi), 2010  
+  
+2. Lefebvre A H, Ballal D R., Gas Turbine Combustion, Alternative  
+fuels and emissions, CRC press, 3rd Edition, 2010  
+  
+3. Heywood, J. B., Internal combustion engine fundamentals,  
+McGraw-Hill (New York), 1988  
+  
+4. Mathur and Sharma., Internal Combustion Engines, Dhanpat Rai  
+Publications (P) Ltd (New Delhi), 2010  
+  
+5. Ferguson C. and Kirkpatrick A., Internal Combustion Engines:  
+applied thermosciences, John Wiley and Sons, 2001  
+  
+6. Saravanamuttoo H I H, Rogers G F C, Cohen H., Gas Turbine  
+Theory, Pearson Education, 5th Edition, 2003  
+  
+7. Mattingly J D., Elements of Gas Turbine Propulsion, MCGraw –  
+Hill, Inc. 1996  
+  
+Recent Journal/SAE Papers on emissions control technologies  
+(hard copies of SAE papers are available in library)
+
+*Review By:* Atharv Toraskar

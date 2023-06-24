@@ -1,0 +1,61 @@
+---
+layout: post
+title: "DE309 - Design for Interactive Media"
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/DE309.png
+featured: false
+hidden: false
+---
+
+#### Instructor
+Prof. Anirudha Joshi
+
+#### Semester
+Autumn '21
+
+#### Course Difficulty
+It was a 3 week module for IDC students, so it was pretty hectic for me with a lot of assignments, not particularly difficult content wise. 
+
+#### Time Commitment Required
+Classes/presentations/sessions everyday 9-5 PM. Other than that group project work ~3 hours
+
+#### Grading Policy and Statistics
+Not revealed, Statistics-  
+AA	4  
+AB	10  
+BB	3  
+BC	2  
+CC	1  
+CD	1
+
+#### Attendance Policy
+No attendance policy
+
+#### Pre-requisites
+None
+
+#### Evaluation Scheme
+Course project - users studies (25%)  
+Persona (10%) - individual evaluation  
+Best interview (15%) - individual evaluation  
+Heuristics and principles (15%) - individual evaluation  
+Course project - design (20%) - group level evaluation  
+Course project - evaluation (15%) - group level evaluation
+
+#### Topics Covered in the Course
+User studies techniques focusing on conceptual inquiry technique which involves taking interviews, and gaining insights and further using it for design ideas. Next part involved creating personas based on the insights from affinity, heuristics and principles of HCI, followed by a course project on designing a prototype in response to the contextual problems found in user studies and to provide a solution for them. 
+
+#### Teaching Style
+Class presentations mainly and Youtube videos followed by discussions on the same
+
+#### Course Highlights
+Learnt the skill of interviewing, and presenting ideas using real life examples
+
+#### When to take this course?
+Autumn semester, fourth year. It is not offered as elective/minor, I registered for it and took permission for retagging as IE.
+
+#### Other Remarks
+It is an interesting course to learn about product design, the background work involved in studying the needs of users and coming up with a solution to solve their problems.
+
+*Review By:* Misari Bhanani

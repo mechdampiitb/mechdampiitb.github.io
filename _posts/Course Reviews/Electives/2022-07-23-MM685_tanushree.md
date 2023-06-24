@@ -1,0 +1,80 @@
+---
+layout: post
+title: "MM685 - Electrical and Magnetic Materials"
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/MM685.jpg
+featured: false
+hidden: false
+---
+
+#### Instructor
+Tanushree Chaudhury
+
+#### Semester
+Autumn '21
+
+#### Course Difficulty
+Easy to Moderate
+
+#### Time Commitment Required
+Around 4-5 hours per week
+
+#### Grading Policy and Statistics
+Grading: Not so great :/  
+Statistics: Refer to ASC for details. No one got an AA but everyone was above BC with majority getting BB.
+
+#### Attendance Policy
+None, but one is required to submit 80% of the evaluations done in this course
+
+#### Pre-requisites
+No hard prerequisites as such. Some background about semiconductors from EE 101 and preliminaries about nuclei formation from ME 221 will help.
+
+#### Evaluation Scheme
+Homework: 20  
+Midsem Viva + Take home endsem: 20  
+Participation: 10   
+Term Paper: 50
+
+#### Topics Covered in the Course
+1. Overview of applications of electrical and magnetic materials – case studies  
+2. Bonding, Crystalline structure, microstructure, and the impact thereof  
+3. Band structure, E-k diagrams, materials classification  
+4. Metals: thermal and electrical properties, effect of composition and microstructures  
+5. Semiconductors: Conductivity, doping, p-n junctions, E-x diagram application, optical properties: implications of E-k diagrams, band engineering, heterostructures, synthesis of heterostructures.  
+6. Insulators: dielectric properties in static and dynamic fields  
+7. Ferroelectric materials: spontaneous polarization, crystal structure correlation, piezoelectricity, pyroelectricity, impact of processing parameters  
+8. Magnetic materials: basics, ordering, ferro-, dia-, para-, magnetic materials  
+  
+Due to time constraints, the instructor could not cover topics 6, 7 and 8, so it became just an 'Electrical Materials' course :p   
+Major part of the course was focused on topic no. 5
+
+#### Teaching Style
+The instructor used MSTeams and significant weightage was given to in-class participation.
+
+#### Tutorials/Assignments/Projects
+There were 5 homework assignments throughout the course which were somewhat time consuming. The term paper had a weightage of 50% and the instructor floated a few topics for the same (for eg. transparent solar cells, sensors, etc). Teams of 2 were formed and the goal was to suggest better materials for the selected application. Basically, it was a literature review based on which we had to suggest our improvements. 
+
+#### Feedback on Exams
+There was no midsem but she took a viva and asked basic questions about the content. The endsem was in take-home mode with just one simple question and 24 hours to submit
+
+#### Motivation for taking this course
+To get more deeper insights into magnetism in matter than what was taught during JEE, but sadly that was not covered in the course.
+
+#### Course Highlights
+The course starts with preliminary solid state physics (more or less same as in ME 221) and then moves on to semiconductors, bandstructures, carrier densities and the effect of external parameters on the carrier densities (like temperature or doping). The instructor spent a fair amount of time on this topic. Meanwhile, there were regular discussions about the term paper during the class hours. Perhaps this is why there were time constraint issues at the end. After the midsem, a lot of time was devoted to learning synthesis techniques for semiconductors/heterostructures and the theoretical aspects associated with those.  
+Overall, the content was decent and the instructor's teaching was quite good. Since this was the first time she took the course, she made modifications on the way. One can expect a more organized MM 685 in the coming semesters with a well-defined flow.
+
+#### Course Importance
+This course can provide decent exposure to synthesis techniques for semiconductors, transistors, other electrical devices if one is interested to work in companies like Intel, TSMC, etc. We had a guest lecture where the instructor's friend from Intel talked about her experience. The course will open avenues in materials research as well.
+
+#### How strongly would I recommend this course?
+On a scale of 0-10 with 0 being don't ever and 10 being a strong yes; a 7
+
+#### When to take this course?
+I took it in my 7th semester. There is no ideal time as such, but I'd suggest taking this after EE 101 and ME 221 to have a better background.
+
+#### References Used
+Recommended textbook is Electronic, Magnetic and Optical Materials by Pradeep Fulay
+
+*Review By:* Shravan Godse
