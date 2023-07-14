@@ -167,10 +167,10 @@ permalink: /team
         <div class="flip-card-inner">
           <div class="flip-card-front">
             <img class="mentor-image" src="../assets/team_images/Siddharth Farkiya.jpeg" alt="Avatar">
-            <div class="mentor-name-front">siddharth farkiya</div>  
+            <div class="mentor-name-front">Siddharth Farkiya</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">siddharth farkiya</div>
+            <div class="mentor-name-back">Siddharth Farkiya</div>
             <p>Hi, I am Siddharth Farkiya, a to-be-thirdie in Mechanical engineering. I enjoy playing Badminton, Table Tennis, Squash. Hailing from Indore, makes me a foodie by default. Currently I am looking forward to exploring and pursuing Finance.</p>
             <div class="icon-div">
               <a href="mailto:siddharthfarkiya11@gmail.com">
