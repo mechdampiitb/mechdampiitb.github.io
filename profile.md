@@ -166,7 +166,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/siddharth farkiya.jpeg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images/Siddharth Farkiya.jpeg" alt="Avatar">
             <div class="mentor-name-front">siddharth farkiya</div>  
           </div>
           <div class="flip-card-back">
@@ -546,7 +546,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Krish Dalal.JPG" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images/Krish Dalal.jpg" alt="Avatar">
             <div class="mentor-name-front">Krish Dalal</div>  
           </div>
           <div class="flip-card-back">
