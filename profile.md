@@ -223,7 +223,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Manav Doshi.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images/manav doshi.jpg" alt="Avatar">
             <div class="mentor-name-front">Manav Doshi</div>  
           </div>
           <div class="flip-card-back">
@@ -717,7 +717,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Pratham Kulkarni.jpeg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images/pratham kulkarni.jpeg" alt="Avatar">
             <div class="mentor-name-front">Pratham Kulkarni</div>  
           </div>
           <div class="flip-card-back">
