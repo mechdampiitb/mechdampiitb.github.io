@@ -11,7 +11,7 @@ permalink: /team
 <section class="featured-posts">
   <div class="section-title">
     <h2>
-      <span>DAMP Coordinators 2022-23</span>
+      <span>DAMP Coordinators 2023-24</span>
     </h2>
   </div>
   <div class="row">
