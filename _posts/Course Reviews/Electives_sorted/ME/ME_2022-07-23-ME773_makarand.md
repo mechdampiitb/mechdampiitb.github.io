@@ -1,0 +1,78 @@
+---
+layout: post
+title: "ME773 - Reliability Modelling and Analysis for Engineering Systems"
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/ME773.jpg
+featured: false
+hidden: false
+---
+
+#### Instructor
+Makarand Kulkarni
+
+#### Semester
+Autumn '21
+
+#### Course Difficulty
+The course begins with the very basics and then builds on to bigger things. Besides, the latter topics are also easy to understand. Thus, the overall difficulty of this course is between basic and intermediate.
+
+#### Time Commitment Required
+Owing to the flipped nature of classes, about 1.5-3 hours of extra time commitment per week would be required.
+
+#### Grading Policy and Statistics
+Fairly generous, students who submit all the exams, can easily pass.  
+AA	6  
+AB	17  
+AU	1  
+BB	9  
+BC	3  
+CC	2  
+FR	8  
+Total	46
+
+#### Attendance Policy
+None
+
+#### Pre-requisites
+None
+
+#### Evaluation Scheme
+Best 4 out of 4 Quizzes + 1 Assignment : 60%  
+Endsem : 40%
+
+#### Topics Covered in the Course
+Importance of reliability modelling and analysis for engineering systems   
+ Basics of reliability, availability and maintainability of engineering systems   
+ Failure data analysis for non-repairable systems   
+ Reliability models for non-repairable systems:  System reliability models,  Reliability models for mixed population and competing failure modes  Stress-strength, degradation based and shock based reliability models  Conditional reliability models and residual life estimation  Reliability models for multiple operational phases    
+ Failure data analysis for repairable systems   
+ Reliability models for repairable systems   
+ Failure simulation for system performance evaluation  Warranty policies, models and their applications 
+
+#### Teaching Style
+Flipped Classroom: Lectures were uploaded beforehand which the students had to watch and ask related doubts during the designated lecture timings.  
+The Professor's teaching style is nice, but sometimes might end up being a bit boring, owing to the 1.5-hour lecture duration.
+
+#### Tutorials/Assignments/Projects
+For the optional Assignment (only 4 out of 4 quizzes+1 assignment required), one had to prepare a detailed report on one of the topics floated by the professor. The assignment was given due time to be completed, and required extensive research on the topic, thereby requiring time commitment from the students.  
+Tutorials were held during the lecture hours, where professor solved selected problems on the relevant topics, which were helpful for the quizzes and endsem.
+
+#### Feedback on Exams
+There was no Midsem.  
+The quizzes were relatively easy, requiring knowledge of a selected subset of topics taught after the previous quiz. Questions asked were mostly related to the concepts taught and problems solved during the lectures. Some quizzes were open notes, while others were not  
+The endsem was also similar to the quizzes. The entirety of topics taught in the course were the syllabus for the exam. The exam was closed notes, but the questions were mostly similar to those asked in the quizzes.
+
+#### Motivation for taking this course
+Interest in probability and statistics.
+
+#### How strongly would I recommend this course?
+The course gives a basic understanding of reliability methods in production management along with basic statistics, so it is a good one for those who'd like to pursue industrial engineering or related fields.
+
+#### When to take this course?
+I took the course in my 9th Semester. The course can be taken in any semester after the 4th semester without much difficulty.
+
+#### References Used
+C. E. Ebeling, Reliability and maintainability engineering, Tata McGraw Hill, 2nd Ed.
+
+*Review By:* Rohan Singh

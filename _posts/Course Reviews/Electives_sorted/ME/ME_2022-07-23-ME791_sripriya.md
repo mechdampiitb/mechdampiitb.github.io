@@ -1,0 +1,41 @@
+---
+layout: post
+title: "ME791 - Acoustic Devices"
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/ME791.jpg
+featured: false
+hidden: false
+---
+
+#### Instructor
+Sripriya Ramamoorthy
+
+#### Semester
+Autumn' 20
+
+#### Course Difficulty
+The content involves problem solving and the concepts are a bit involved. Complex equations were derived and used in the exam which was open book. The questions are not straight forward but step marking is done. 
+
+#### Time Commitment Required
+6 hours a week
+
+#### Grading Policy and Statistics
+Grading is very chill. If you put in good amount of effort then you can score almost full in the course project which carried 40% marks. Assignments are also leniently graded. The exams were a bit difficult but the grading was very lenient and every effort made to solve the question was rewarded with a good score.
+
+#### Attendance Policy
+None
+
+#### Topics Covered in the Course
+Derivation of equations for the propagation of sound, boundary conditions and the effect of various shapes and mediums. Involves problem solving and logical use of equations. There is a small amount of theory at the end related to the working of human ear, etc.
+
+#### Tutorials/Assignments/Projects
+Assignments were very easy
+
+#### Feedback on Exams
+Exams were extremely straightforward and high-scoring
+
+#### When to take this course?
+Anytime in the fourth year
+
+*Review By:* Gourav Chopra
