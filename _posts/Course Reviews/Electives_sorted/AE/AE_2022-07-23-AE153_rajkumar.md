@@ -1,0 +1,74 @@
+---
+layout: post
+title: "AE153 - Introduction to Aerospace Engg."
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/AE153.png
+featured: false
+hidden: false
+---
+
+#### Instructor
+Prof. Rajkumar S. Pant (R. K. Pant)
+
+#### Semester
+Autumn '19
+
+#### Course Difficulty
+Course content is not difficult.
+
+#### Time Commitment Required
+Other than class hours, approx. 2 hours per week is required to go through the content before the class.
+
+#### Grading Policy and Statistics
+Grading is not so chill and it depends on the overall class's performance as well as the performance of you and your group (There are several group projects), also the peer reviews.
+
+#### Attendance Policy
+Attendance is quite rigid, Professor expects everyone to attend all the classes. Professor may or may not keep some marks for attendance. Moreover, it is highly suggested to attend each class, as the class is so much interesting and also the quiz content is mostly from the class discussions.
+
+#### Pre-requisites
+The only pre-requisite you need, to take this course is "Interest in the aerospace domain".
+
+#### Evaluation Scheme
+Approximately half of the weightage is of Course Projects and half of quizzes. 
+
+#### Topics Covered in the Course
+Course content involves Basics of Aerodynamics using simple equations and a lot of illustrations, Different types of aircraft and other aerodynamic machines, their basic structure and working and their current real-world scenario, case studies related to aircraft accidents, aircraft Operations and their working atmosphere, and many more interesting topics, covering some of their basic knowledge.
+
+#### Teaching Style
+Teaching style of the professor is very good. The class usually runs in Inverse Classroom mode, in which students are provided with the class content before the class, they have to study that content, and there are video representations and fruitful discussions in the class hours.
+
+#### Tutorials/Assignments/Projects
+There are mainly Group assignments and Projects. The project topics are interesting and fun, they also involve so much learning as well as hands-on work (especially in glider making competition, in the offline scenario).
+
+#### Feedback on Exams
+There are only Quizzes and Assignments/Projects. No Midsem or Endsem. Quizzes are of multiple choice questions type and are not so difficult. You just have to attend classes sincerely to score very good in the Quizzes.
+
+#### Motivation for taking this course
+The course is so much interesting and fun, it teaches most of the basics of aerodynamics and generates interest in this field. The group project members are students from different domains such as Undergrads, Masters, Air Force, DRDO, etc., which improves our interactive skills and team coordination.
+
+#### Course Highlights
+Course projects (which are fun, knowledgeable and highly exploratory, especially glider making competition)
+
+#### Course Importance
+Course is very important to start any study in the aerospace domain, it is also a pre-requisite to various courses in the Aerospace Department. 
+
+#### How strongly would I recommend this course?
+If you are interested in Aerospace minor or even want to know something about Aerospace domain, I would strongly recommend taking this course.
+
+#### When to take this course?
+I took this course as the starting course of my Minor in Aerospace Engineering. The ideal semester to take this course is 3rd semester. 
+
+#### Going Forward
+You can literally take any other Aerospace course offered to you after this course, you will find it easy to continue after doing this course. AE 240 (Spaceflight Mechanics), AE 332 (Aircraft Design) are some courses, which can be taken in future.
+
+#### References Used
+Class material (Lecture slides and video illustrations) is enough to understand the course content. 
+
+#### Other Remarks
+The course is very good, interesting and fun, worth taking.
+
+#### Interesting relevant links
+https://youtu.be/w78JT6azrZU
+
+*Review By:* Utkarsh Sahu

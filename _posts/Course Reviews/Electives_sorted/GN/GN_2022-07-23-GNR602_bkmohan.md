@@ -1,0 +1,48 @@
+---
+layout: post
+title: "GNR602 - Advanced Methods in Satellite Image Processing"
+categories: [core courses]
+tags: [courses]
+image: assets/images/Course Reviews/Electives/GNR602.png
+featured: false
+hidden: false
+---
+
+#### Instructor
+B.K.Mohan
+
+#### Semester
+Spring '20 
+
+#### Course Difficulty
+The course is easy to follow 
+
+#### Time Commitment Required
+1 or 2 hours besides lecture
+
+#### Grading Policy and Statistics
+Lenient , easy to score BB or better with minimal efforts
+
+#### Attendance Policy
+None
+
+#### Pre-requisites
+None but a machine learning course would be quite helpful
+
+#### Evaluation Scheme
+There were 3 quizzes with 5% weightage each, a paper review and programming assignment (25%),midsem (20%) and endsem (40%)
+
+#### Topics Covered in the Course
+ The course begins with basics of Satellite images and multispectral images, then some basic algorithms used in image processing were discussed. Some algorithms like K-SOM which are not conventionally used were also taught and towards the end, the machine learning approaches were taught
+
+#### Teaching Style
+The professor uses slides to teach and explains the concepts quite well. 
+
+#### Tutorials/Assignments/Projects
+The project involves implementation of some algorithm taught in the course 
+
+#### Feedback on Exams
+The quizzes consisted of 5 one mark questions and were generally easy and based on direct statements in the slides  
+The midsems and endsems contained bigger questions but were still directly based on slides . Generally questions like explain a particular algorithm and mention it's advantages and disadvantages were asked. All questions were non numerical
+
+*Review By:* Kaustubh Ponkshe
