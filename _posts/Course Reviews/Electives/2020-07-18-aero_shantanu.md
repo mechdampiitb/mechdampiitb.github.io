@@ -2,7 +2,7 @@
 layout: post
 title:  "Aero Minor?"
 categories: [minors]
-tags: [courses]
+tags: [experiences]
 image: assets/images/Course Reviews/Minors/aero.png
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title:  "Management Minor?"
 categories: [minors]
-tags: [courses]
+tags: [experiences]
 image: assets/images/Course Reviews/Minors/mg.jpg
 featured: false
 hidden: false
