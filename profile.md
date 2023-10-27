@@ -8,6 +8,16 @@ permalink: /team
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
 <title>Team</title>
+<!-- <section class="featured-posts">
+  <div class="section-title">
+    <h2>
+      <span>About Us</span>
+    </h2>
+  </div>
+  <p>
+    IIT Bombay's Mech Damp Blog is an insightful platform dedicated to the mechanical engineering community. It offers a wealth of knowledge and expertise on topics ranging from cutting-edge research in mechanical engineering to practical tips and advice for aspiring engineers. With a team of passionate contributors, Mech Damp Blog delivers engaging content that keeps readers up-to-date with the latest trends, innovations, and developments in the field. Whether you're a student, researcher, or industry professional, this blog is a valuable resource for anyone looking to explore the fascinating world of mechanical engineering.
+  </p>
+</section> -->
 <section class="featured-posts">
   <div class="section-title">
     <h2>
