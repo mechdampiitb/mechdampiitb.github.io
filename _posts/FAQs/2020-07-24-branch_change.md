@@ -4,7 +4,7 @@ title:  "The Branch Change Dilemma"
 categories: [FAQS, First Year]
 tags: [faqs]
 image: assets/images/insti.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
