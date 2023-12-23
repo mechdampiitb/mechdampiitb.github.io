@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime
 import re
 
+
 def get_course_code(course_name):
     pattern = r'^[A-Za-z]+\s*\d+'
     match = re.search(pattern, course_name)
@@ -10,18 +11,22 @@ def get_course_code(course_name):
         return match.group().strip()
     else:
         return None
-    
+
+
 def get_first_name(full_name):
     first_name = full_name.split()[0]
     return first_name
 
+
 current_date = datetime.now().date()
 formatted_date = current_date.strftime('%Y-%m-%d')
+
 
 def read_course_reviews():
     # Reading the CourseReviews.csv file
     df = pd.read_csv("course_reviews.csv")
     return df.to_dict(orient="records")
+
 
 def generate_readme_file(course_data):
     for course in course_data:
@@ -54,7 +59,7 @@ hidden: false
 {course['Attendance Policy:']}
 
 #### Pre-requisites
-Not for B.Tech students 
+NA
 
 #### Topics Covered in the Course
 {course['Broad topics covered in the course:']}
@@ -84,6 +89,7 @@ Review By: {course['Name:']}
         first_name = get_first_name(course['Name:'])
         with open(f"{formatted_date}-{course_code}_{first_name}.md", "w") as readme_file:
             readme_file.write(readme_content)
+
 
 if __name__ == "__main__":
     course_data = read_course_reviews()
