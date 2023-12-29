@@ -21,6 +21,16 @@ permalink: /team
 <section class="featured-posts">
   <div class="section-title">
     <h2>
+      <span>About Us</span>
+    </h2>
+    <span>
+      Hey there! We’re the team behind the Mechanical Department Academic Mentorship Program. It is headed by two Coordinators, Aum and Gaurav and a group of 55 amazing mentors. Here’s a little bit about us and what we do. We, as mentors, are here to provide you with any assistance you might need. Though the title of ‘DAMP’ explicitly states academic mentorship, we’re much more than that. Check out the testimonials page to read stories about the amazing interactions students have had with their mentors, and the close bonds they’ve forged. Bonds that have lasted far longer than just one mentorship tenure. Besides making sure that we’re there for you, we also strive to make the experience of the students within the department richer in every way. For this purpose, we try to bridge the gap in communication between the student body and the faculty, which is crucial to ensure stability in the long term. We also conduct help sessions before the midterms and the end-terms, information sessions on various initiatives and develop and maintain this blog, which contains detailed course reviews, roadmaps which you could follow in order to gain proficiency in certain topics and experiences people have had with projects and internships. We’re a not-so-small group of people trying to do our part in making this department the best it could be, so that everyone who carries the tag of ‘Mechanical’ has an opportunity to be the best that they can be!
+    </span>
+  </div>
+</section>
+<section class="featured-posts">
+  <div class="section-title">
+    <h2>
       <span>DAMP Coordinators 2023-24</span>
     </h2>
   </div>
