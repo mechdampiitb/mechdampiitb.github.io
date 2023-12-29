@@ -49,7 +49,11 @@ title: Home
 
         {% for post in paginator.posts %}
 
+        {% if post.tags contains "courses" %}
+
         {% include postbox.html %}
+
+        {% endif %}
 
         {% endfor %}
 
