@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS625- Environmnet and Policy"
+title: "PS625- Environment and Policy"
 categories: [Elective, Recommended for thirdies, Recommended for fourthies, Environment And Policy]
 tags: [courses]
 image: assets/images/Course Reviews/Electives/PS619.jpg
