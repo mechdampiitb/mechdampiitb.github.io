@@ -12,7 +12,7 @@ hidden: false
 Prof. Deepak Marla
 
 #### Semester
-Spring 2023-24
+Spring 2023
 
 #### Course Difficulty
 Overall, the course is Easy to Moderate. There�s a good balance of theory as well as applications.

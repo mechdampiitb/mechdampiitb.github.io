@@ -12,7 +12,7 @@ hidden: false
 Prof. Nikhil Karamchandani
 
 #### Semester
-Spring 2023-24
+Spring 2023
 
 #### Course Difficulty
 Overall, the content is intellectually stimulating and most concepts are easy to understand in class. However, there are some topics that might need more work done on your own but these are quite elegant and important from the point of view of applications in ML.
@@ -61,7 +61,7 @@ Some Elegant Probability Bounds and Applications.
 Best set of TAs.
 
 Peers
-It�s a core course for the EE folks who usually take it in the odd semester. But it also runs in the even semester with a relatively small class size. This course is included in both the DS as well as EE minor baskets, so now you know who your peers are going to be :)
+It's a core course for the EE folks who usually take it in the odd semester. But it also runs in the even semester with a relatively small class size. This course is included in both the DS as well as EE minor baskets, so now you know who your peers are going to be :)
 
 References Books
 Probability and Random Processes, Grimett and Stirzaker https://www.vfu.bg/en/e-Learning/Math�Bertsekas Tsitsiklis Introduction to probability.pdf Probability, Random Variables and Stochastic Processes, Papoulis and Pillai 

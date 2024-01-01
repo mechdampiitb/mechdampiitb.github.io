@@ -12,7 +12,7 @@ hidden: false
 Prof. Asim Tewari
 
 #### Semester
-Spring 2023-24
+Spring 2023
 
 #### Course Difficulty
 The content of this course is quite heavy, involving a lot of Math (Linear Algebra) and Solid Mechanics in a number of derivations. I strongly recommend not to miss any classes. Otherwise it becomes too difficult to follow the content in class or to cover on your own. 

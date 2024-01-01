@@ -12,7 +12,7 @@ hidden: false
 Prof. Tanmay Bhandarkar
 
 #### Semester
-Spring 2023-24
+Spring 2023
 
 #### Course Difficulty
 The concepts taught in this course are mostly very easy to understand but to do well in exams one has to really focus on solving problems as some of them can be very lengthy and it�s very easy to make silly mistakes in long calculations.
