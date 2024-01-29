@@ -2,7 +2,7 @@
 layout: post
 title: "Computational Analysis of Farmplot Polygons"
 categories: [BTP, Research]
-tags: [experiences]
+tags: [project_experiences]
 image: assets/images/Research/btp_siddharth.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: "Controlled impulse transfer using UAV-pendulum system"
 categories: [BTP, Research]
-tags: [experiences]
+tags: [project_experiences]
 image: assets/images/Research/btp_siddharth.jpg
 featured: false
 hidden: false
