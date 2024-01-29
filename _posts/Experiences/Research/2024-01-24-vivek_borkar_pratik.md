@@ -8,7 +8,6 @@ featured: false
 hidden: false
 ---
 
-### Name
 Pratik Chetan Shah
 
 ### Guiding Professor

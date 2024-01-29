@@ -8,7 +8,6 @@ featured: false
 hidden: false
 ---
 
-### Name
 Manav Doshi
 
 ### Guiding Professor

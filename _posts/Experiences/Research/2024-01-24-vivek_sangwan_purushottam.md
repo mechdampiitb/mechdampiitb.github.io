@@ -8,7 +8,6 @@ featured: false
 hidden: false
 ---
 
-### Name
 Purushotham Mani
 
 ### Guiding Professor
