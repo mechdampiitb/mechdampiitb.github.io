@@ -3,7 +3,7 @@ layout: post
 title: "Autonomous Crack Detection using Deep Learning on Synthetic Datasets"
 categories: [BTP, Research]
 tags: [project_experiences]
-image: assets/images/Research/btp_siddharth.jpg
+image: assets/images/Research/chinmay.jpeg
 featured: false
 hidden: false
 ---

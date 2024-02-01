@@ -3,7 +3,7 @@ layout: post
 title: "Quasi-interpolation for feedback synthesis of optimal control systems"
 categories: [BTP, Research]
 tags: [project_experiences]
-image: assets/images/Research/btp_siddharth.jpg
+image: assets/images/Research/manav.png
 featured: false
 hidden: false
 ---

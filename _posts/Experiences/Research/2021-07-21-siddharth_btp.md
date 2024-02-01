@@ -2,7 +2,7 @@
 layout: post
 title: "Interdisciplinary B.Tech Project & an Honors degree at IIT Bombay"
 categories: [BTP, Research]
-tags: [project_experiences]
+tags: [experiences]
 image: assets/images/Research/btp_siddharth.jpg
 featured: false
 hidden: false
