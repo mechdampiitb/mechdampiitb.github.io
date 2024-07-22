@@ -9,7 +9,6 @@ hidden: false
 ---
 
 #### Instructor
-
 Avishek Ranjan
 
 #### Semester
