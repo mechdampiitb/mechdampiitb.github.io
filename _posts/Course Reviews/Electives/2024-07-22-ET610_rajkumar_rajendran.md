@@ -9,7 +9,6 @@ hidden: false
 ---
 
 #### Instructor
-
 Rajkumar Rajendran
 
 #### Semester

@@ -9,7 +9,6 @@ hidden: false
 ---
 
 #### Instructor
-
 Jayendran Venkateswaran
 
 #### Semester
