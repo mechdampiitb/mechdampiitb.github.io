@@ -191,7 +191,7 @@ permalink: /team
           </div>
           <div class="flip-card-back">
             <div class="mentor-name-back">Dhriti Maniar</div>
-            <p></p>
+            <p>Hi everyone, I’m Dhriti from Mumbai! You will mostly find me playing table tennis in the new SAC! My unhealthy habits include binging on 10 season long drama series’ and the biggest fiction novels. I am always up for a good chat about any of the above so hit me up if you have any good recommendations:)</p>
             <div class="icon-div">
               <a href="mailto:22b2176@iitb.ac.in">
                 <i class="fa fa-envelope flip-card-icon"></i>
@@ -362,7 +362,7 @@ permalink: /team
           </div>
           <div class="flip-card-back">
             <div class="mentor-name-back">Dileep Devarajan</div>
-            <p></p>
+            <p>only submitting photo lol</p>
             <div class="icon-div">
               <a href="mailto:dildev098@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
@@ -438,7 +438,7 @@ permalink: /team
           </div>
           <div class="flip-card-back">
             <div class="mentor-name-back">Siddhant Gada</div>
-            <p>Pro procrastinator. Always up for a conversation, feel free to reach out to me anytime</p>
+            <p>who?</p>
             <div class="icon-div">
               <a href="mailto:siddhantgada7@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
