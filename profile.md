@@ -24,14 +24,14 @@ permalink: /team
       <span>About Us</span>
     </h2>
     <span>
-      Hey there! We’re the team behind the Mechanical Department Academic Mentorship Program. It is headed by two Coordinators, Aum and Gaurav and a group of 55 amazing mentors. Here’s a little bit about us and what we do. We, as mentors, are here to provide you with any assistance you might need. Though the title of ‘DAMP’ explicitly states academic mentorship, we’re much more than that. Check out the testimonials page to read stories about the amazing interactions students have had with their mentors, and the close bonds they’ve forged. Bonds that have lasted far longer than just one mentorship tenure. Besides making sure that we’re there for you, we also strive to make the experience of the students within the department richer in every way. For this purpose, we try to bridge the gap in communication between the student body and the faculty, which is crucial to ensure stability in the long term. We also conduct help sessions before the midterms and the end-terms, information sessions on various initiatives and develop and maintain this blog, which contains detailed course reviews, roadmaps which you could follow in order to gain proficiency in certain topics and experiences people have had with projects and internships. We’re a not-so-small group of people trying to do our part in making this department the best it could be, so that everyone who carries the tag of ‘Mechanical’ has an opportunity to be the best that they can be!
+      Hey there! We’re the team behind the Mechanical Department Academic Mentorship Program. It is headed by two Coordinators, Arushi and Disha and a group of 40+ amazing mentors. Here’s a little bit about us and what we do. We, as mentors, are here to provide you with any assistance you might need. Though the title of ‘DAMP’ explicitly states academic mentorship, we’re much more than that. Check out the testimonials page to read stories about the amazing interactions students have had with their mentors, and the close bonds they’ve forged. Bonds that have lasted far longer than just one mentorship tenure. Besides making sure that we’re there for you, we also strive to make the experience of the students within the department richer in every way. For this purpose, we try to bridge the gap in communication between the student body and the faculty, which is crucial to ensure stability in the long term. We also conduct help sessions before the midterms and the end-terms, information sessions on various initiatives and develop and maintain this blog, which contains detailed course reviews, roadmaps which you could follow in order to gain proficiency in certain topics and experiences people have had with projects and internships. We’re a not-so-small group of people trying to do our part in making this department the best it could be, so that everyone who carries the tag of ‘Mechanical’ has an opportunity to be the best that they can be!
     </span>
   </div>
 </section>
 <section class="featured-posts">
   <div class="section-title">
     <h2>
-      <span>DAMP Coordinators 2023-24</span>
+      <span>DAMP Coordinators 2024-25</span>
     </h2>
   </div>
   <div class="row">
@@ -40,16 +40,16 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Aum Samel.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Aum Samel</div>
+            <img class="mentor-image" src="../assets/team_images_24/Arushi Srivastava.jpg" alt="Avatar">
+            <div class="mentor-name-front">Arushi Srivastava</div>
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Aum Samel</div>
+            <div class="mentor-name-back">Arushi Srivastava</div>
             <p>
-            Hi! I'm Aum from Pune (Pune >>), a fourthie from Mech. Right on the knife's edge between introvert and extrovert, I'd like to say I get to enjoy best of both worlds. I'm interested in football, writing and reading and always up for deep convos :)
+           Hey, I am Arushi, one of the DAMPCs for mechanical this tenure. I am an avid enjoyer (addict) of chai. I try to work on things that seem interesting to me, even if it might not be convenient. I have also lived in many cities across the world but none as long as Mumbai, which is now a part of my personality 
             </p>
             <div class="icon-div">
-              <a href="mailto:aumsamel09@gmail.com">
+              <a href="mailto:arushisrivastava123@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -61,16 +61,16 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Gaurav Misra.jpg" alt="Avatar">
-            <div class="mentor-name-front">Gaurav Misra</div>
+            <img class="mentor-image" src="../assets/team_images_24/Disha Pandey.jpg" alt="Avatar">
+            <div class="mentor-name-front">Disha Pandey</div>
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Gaurav Misra</div>
+            <div class="mentor-name-back">Disha Pandey</div>
             <p>
-            I'm from Mumbai and love exploring new places, food, ideas, the whole deal. Though Deep Learning is what I'm working on at the moment, all things research interest me. I'm enthusiastic about big questions and answers to those so hit me up anytime (mostly :) if you wanna discuss something fun!
+            Hi there! I'm Disha. I'm from Bangalore and I'm on a hunt for good dosa and less that 90% relative humidity in Mumbai. I paint, write poetry and love cats. I'm always down to sit in the CCD AC and chat or go on random Mumbai tours, as long as there's ice cream involved 
             </p>
             <div class="icon-div">
-              <a href="mailto:gauravmisra2002@gmail.com">
+              <a href="mailto:maankidisha@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -91,14 +91,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Yash Rampuria.jpg" alt="Avatar">
-            <div class="mentor-name-front">Yash Rampuria</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Isha Laddha.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Isha Laddha</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Yash Rampuria</div>
-            <p>I am a thirdie in the mech dept and the Perception head in the IITB Racing team. Love filmmaking amd videography and open to making cinematic videos of literally anything!</p>
+            <div class="mentor-name-back">Isha Laddha</div>
+            <p>I’m a fun loving person who loves interacting with different people! I like to try various things and always up for new experiences</p>
             <div class="icon-div">
-              <a href="mailto:yashrampuria007@gmail.com">
+              <a href="mailto:isha.laddha3@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -110,14 +110,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Gehna Gudhainia.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Gehna Gudhainia</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Archit Mundada.jpg" alt="Avatar">
+            <div class="mentor-name-front">Archit Mundada</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Gehna Gudhainia</div>
-            <p> Hey there, I'm Gehna, hailing from Jaipur! When it comes to making a splash, swimming is my ultimate go-to, keeping me afloat with waves of excitement. But let me tell you, nothing beats the thrill of diving into fascinating conversations and connecting with amazing folks like you. If you're up for a stroll, count me in! I'm always game for some ‘sole’-searching adventures. Oh, and books? They're my latest page-turning obsession. As an internship coordinator, I get to sprinkle some professional magic. And when it's time to unwind, I'm all ears for music's sweet symphony! </p>
+            <div class="mentor-name-back">Archit Mundada</div>
+            <p> I love cycling and running because they don't require an active brain </p>
             <div class="icon-div">
-              <a href="mailto:gehnagudhainia@gmail.com">
+              <a href="mailto:archmundada006@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -129,14 +129,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Mokshit Naidu.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Mokshit Naidu</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Udayan Gupta.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Udayan Gupta</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Mokshit Naidu</div>
-            <p>A Bengalurean in almost all ways (but still don’t know Kannada); love to talk, but intimidated by all social situations (I like to live my life in paradoxes)!</p>
+            <div class="mentor-name-back">Udayan Gupta</div>
+            <p>A chess addict with interests in reading, cricket, and bingeing</p>
             <div class="icon-div">
-              <a href="mailto:mokshit.n@gmail.com">
+              <a href="mailto:udayangupta18@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -148,525 +148,12 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ruchir Parekh.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Ruchir Parekh</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Ruchir Parekh</div>
-            <p>Hi, I'm Ruchir(spelt Ruchir). Love to read books and cycle.</p>
-            <div class="icon-div">
-              <a href="mailto:ruchir.m.parekh@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ayush Agarwal.png" alt="Avatar">
-            <div class="mentor-name-front">Ayush Agarwal</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Ayush Agarwal</div>
-            <p>I am currently an Editor at Insight and was a Business Team Member of the DAV team in my second year. I love reading, watching films and playing the piano. I also play football and badminton whenever I get a chance. I'm interested in the non-core sector but am open to exploring other fields as well!</p>
-            <div class="icon-div">
-              <a href="mailto:ayush200903@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Siddharth Farkiya.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Siddharth Farkiya</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Siddharth Farkiya</div>
-            <p>Hi, I am Siddharth Farkiya, a to-be-thirdie in Mechanical engineering. I enjoy playing Badminton, Table Tennis, Squash. Hailing from Indore, makes me a foodie by default. Currently I am looking forward to exploring and pursuing Finance.</p>
-            <div class="icon-div">
-              <a href="mailto:siddharthfarkiya11@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ganesh Iyer.jpg" alt="Avatar">
-            <div class="mentor-name-front">Ganesh Iyer</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Ganesh Iyer</div>
-            <p>I am always keen on exploring new domains in science, math and engineering. Also, I am an academically inclined person, and a core enthusiast. </p>
-            <div class="icon-div">
-              <a href="mailto:omkaar0791@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Swapnoneel Kayal.jpg" alt="Avatar">
-            <div class="mentor-name-front">Swapnoneel Kayal</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Swapnoneel Kayal</div>
-            <p>When I'm not grooving to music, I'm shooting hoops on the basketball court, or pumping iron at the gym. But my true calling lies in exploring the world, seeking thrills and unraveling its secrets. Oh, and did I mention my knack for data analytics? I like turning data into mind-blowing insights for better decision making. Hit me up on WhatsApp/Instagram or even better, give me a call!</p>
-            <div class="icon-div">
-              <a href="mailto:swapnoneel.kayal@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/manav doshi.jpg" alt="Avatar">
-            <div class="mentor-name-front">Manav Doshi</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Manav Doshi</div>
-            <p>Hey there! I'm from Bombay and a big travel enthusiast. I love exploring new places and experiencing different cultures. As a devoted Barcelona fan, I'm passionate about football and closely follow the latest updates. I'm also intrigued by the exciting advancements in machine learning. If you're ever up for a chat, gossip, or discussing movies and TV shows, feel free to reach out!</p>
-            <div class="icon-div">
-              <a href="mailto:doshimanav@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Harshil Khatri.jpg" alt="Avatar">
-            <div class="mentor-name-front">Harshil Khatri</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Harshil Khatri</div>
-            <p>Namaste! I am Harshil (& I don’t have a specific nickname…lol). I like public speaking, writing shayaris, singing, playing chess & enjoying stand-up comedy. I’ve been trained for 6 years in Indian Classical Music & recently, I’ve started my YouTube Channel. Professionally speaking, I’m extremely attracted by startups & entrepreneurship, with the dream of having a significant contribution in this field. I love listening to & discussing topics like Mythology, Literature, Technology & India’s Great Future</p>
-            <div class="icon-div">
-              <a href="mailto:khatriharshil8@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Shubhranil Chatterjee.jpg" alt="Avatar">
-            <div class="mentor-name-front">Shubhranil Chatterjee</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Shubhranil Chatterjee</div>
-            <p>Aspiring researcher passionate about computational mechanics and fluid dynamics. My interests lie in exploring complex phenomena and modeling fluid behaviors. Off the academic track, I'm a huge NBA fan.</p>
-            <div class="icon-div">
-              <a href="mailto:shubhranilchatterjee@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Bishop Prakash.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Bishop Prakash</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Bishop Prakash</div>
-            <p>I'm into robotics and partially machine learning. Forever hunting for good Sci-Fi content. I love photography. Listening to music is a 24x7 for me. Biggest muscle car and MS Dhoni fan you'd meet. Always up for long walks and deep conversations with some canteen food ;)</p>
-            <div class="icon-div">
-              <a href="mailto:prakashbishop7@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Nayantara Ramakrishnan.jpg" alt="Avatar">
-            <div class="mentor-name-front">Nayantara R</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Nayantara R</div>
-            <p>My inability to pick a flavour of ice cream or a topic to research on is because of how much I love both. It's definitely not a sign of my indecisiveness. Research is my chosen way to kill time (read professional interest) and I could talk forever about how cool materials science is. And if I’m not geeking out in the lab, I’m debating every chance I get.</p>
-            <div class="icon-div">
-              <a href="mailto:nayana.ram03@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Purushotham Mani.jpg" alt="Avatar">
-            <div class="mentor-name-front">Purushotham Mani</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Purushotham Mani</div>
-            <p>Hey there! I'm your friendly neighborhood aerial robotics enthusiast, working with Prof. Vivek Sangwan. When I'm not soaring through the sky, you'll find me diving into swimming pools winning a few medals. I'm a total petrol head, addicted to the adrenaline rush of Formula 1 and the engineering behind it. Want to chat about anything and everything? Count me in! Just a heads-up though, I'm an overthinker by birth, so get ready for some deep thoughts. Oh, and did I mention I'm a proud Tamilian, blending South-Indian origins with a North-Indian lifestyle? </p>
-            <div class="icon-div">
-              <a href="mailto:20d180025@iitb.ac.in">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Kunal Kabra.jpg" alt="Avatar">
-            <div class="mentor-name-front">Kunal Kabra</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Kunal Kabra</div>
-            <p>From Mumbai, I am renowned for my shenanigans and also as the guy you can have deep talks with. Well, yeah, I have a dual personality. Crazy about Formula 1, but currently making do with go-karting. I also have a weird obsession with Swiss watches and Italian cars. Always count me in for any plans!</p>
-            <div class="icon-div">
-              <a href="mailto:kunal_kabra@iitb.ac.in">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ishaan Kothari.jpg" alt="Avatar">
-            <div class="mentor-name-front">Ishaan Kothari</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Ishaan Kothari</div>
-            <p>An avid lover of sports✌🏻. Always up for a conversation. Feel free to reach out to me anytime😃</p>
-            <div class="icon-div">
-              <a href="mailto:ishaankothari5@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Manali Manjarekar.jpg" alt="Avatar">
-            <div class="mentor-name-front">Manali Manjarekar</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Manali Manjarekar</div>
-            <p>I like to introduce myself as I am Manali from Goa, since I belong to Goa. Apart from that I am currently the ISAA and Head Career Cell of the institute. I love to read a lot of books and binge watch on series. I also love travelling a lot! </p>
-            <div class="icon-div">
-              <a href="mailto:manalimanjarekar2002@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Saloni Jaiswal.jpg" alt="Avatar">
-            <div class="mentor-name-front">Saloni Jaiswal</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Saloni Jaiswal</div>
-            <p>Hey, I'm a third-year Dual Degree student with a passion for coding. As the Marketing Manager at Radiance, IIT Bombay, and former Mess Secretary for H15, I've honed my leadership and organizational skills. When I'm not immersed in lines of code, you'll find me engrossed in novels or lost in the rhythm of songs.</p>
-            <div class="icon-div">
-              <a href="mailto:salonijaiswal606@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Disha Pandey.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Disha Pandey</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Disha Pandey</div>
-            <p>Hey! I'm Disha. I'm pursuing Btech in Mechanical Engineering with a minor in CS. I love solving problems (except my own) and taking on challenges. I've lived all my life in Bangalore and Mumbai and I love travelling (even though I don't too much). I write and occasionally perform poetry, paint and dance and I'm always down to share stories over coffee in CCD. </p>
-            <div class="icon-div">
-              <a href="mailto:maankidisha@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Shreyash Gupta.png" alt="Avatar">
-            <div class="mentor-name-front">Shreyash Gupta</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Shreyash Gupta</div>
-            <p>Well traveled throughout India, I've grown to have a deep appreciation for all cultures. I love learning about the world through the experiences of the people I meet. Also, I'm occasionally funny.</p>
-            <div class="icon-div">
-              <a href="mailto:shreyashgupta262@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Faizan Ansari.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Faizan Ansari</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Faizan Ansari</div>
-            <p>As a passionate individual deeply intrigued by the world of robotics and AI, I find immense joy in exploring their endless possibilities. Anime serves as a delightful escape and occasional hobby for me. I embrace a logical and methodical approach when confronted with challenges, always striving to find straightforward solutions. Though my creativity leans towards the moderate side, I use it effectively to devise innovative problem-solving strategies. While I do enjoy my fair share of sleep, I take pride in being a soft-hearted and easily approachable person. I am driven by my unwavering commitment to making meaningful contributions to the realms of robotics and AI.</p>
-            <div class="icon-div">
-              <a href="mailto:fraza050903@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Kaivaly Daga.jpg" alt="Avatar">
-            <div class="mentor-name-front">Kaivaly Daga</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Kaivaly Daga</div>
-            <p>An irregular trekking enthusiast from Pune. I don't lose bets/debates, and I win every papad-eating competition. I'm that confident singer who gets all the lyrics wrong. Had planned to play the Guitar in school so that I could call myself a guitarist now. Youtube >>books. If you like J Cole too, say hi :)</p>
-            <div class="icon-div">
-              <a href="mailto:kaivaly@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Shreedhar Malpani.jpg" alt="Avatar">
-            <div class="mentor-name-front">Shreedhar Malpani</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Shreedhar Malpani</div>
-            <p>Sometimes nerdy, sometimes fun. My sarcasm is my strength and a weakness. Am always down to try out new things; cliff Jumping and Tomorrowland are on top of that wish-list. Like to read (a little), enjoy talking more and love listening to other's stories.</p>
-            <div class="icon-div">
-              <a href="mailto:shreedharmalpani12@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Divij Goyal.jpg" alt="Avatar">
-            <div class="mentor-name-front">Divij Goyal</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Divij Goyal</div>
-            <p>A 21-year-old from Delhi with a passion for general trivia, sketching and dancing. I like living high paced and am a big time foodie. Skydiving and Bungee Jumping are on the top of my bucket-list! I love superhero movies and shows, and always up for talking about it, so hit me up!</p>
-            <div class="icon-div">
-              <a href="mailto:goyaldivij06@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Mudit Sethia.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Mudit Sethia</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Mudit Sethia</div>
-            <p>An incoming thirdie, AI enthusiast and an avid tennis player.</p>
-            <div class="icon-div">
-              <a href="mailto:muditsethia13@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Krish Dalal.jpg" alt="Avatar">
-            <div class="mentor-name-front">Krish Dalal</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Krish Dalal</div>
-            <p>From Mumbai. I'm enthralled by the world of AI and eagerly anticipate building exciting applications with it. I enjoy dancing and learning new dance styles. When I'm not grooving, you'll find me fanboying over Marvel and DC. Hit me up for a dance session or to chat about the latest Marvel fan theory!</p>
-            <div class="icon-div">
-              <a href="mailto:krishdalal2002@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Gautam Khona.jpg" alt="Avatar">
-            <div class="mentor-name-front">Gautam Khona </div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Gautam Khona </div>
-            <p>A to-be-thirdie from Mumbai, I am an avid debater, reader and YouTube addict. Hold the position of Institute Speaking Arts Secretary at the moment and enjoy giving gyaan to juniors</p>
-            <div class="icon-div">
-              <a href="mailto:gautam.khona@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Utkarsh Agiwal.jpg" alt="Avatar">
-            <div class="mentor-name-front">Utkarsh Agiwal</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Utkarsh Agiwal</div>
-            <p>Hey, one of the many mumbaikars here! I have been a part of Insight and the DAV team. Having experienced a roller coaster ride in the institute, ping me up in case you are confused about anything. Always up for a game of chess and pool :) Did I mention my obsession with cards? My major career pursuits are non-core.</p>
-            <div class="icon-div">
-              <a href="mailto:utkarshagiwal@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Surabhi Gupta.jpg" alt="Avatar">
-            <div class="mentor-name-front">Surabhi Gupta</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Surabhi Gupta</div>
-            <p>Hi! I'm Surabhi Gupta, a thirdie in the Department of (you guessed it) Mechanical Engineering.  I'm currently an Internship Coordinator at PT Cell. I hail from Noida and I like everything design - be it animation, video editing, digital art or canvas painting. You can always find me trying new sports (have attempted Weightlifting, Hockey and Football till now in insti, hoping to add more to this list soon :)</p>
-            <div class="icon-div">
-              <a href="mailto:surabhiguptaiitb@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ishaan Abhyankar.jpg" alt="Avatar">
-            <div class="mentor-name-front">Ishaan Abhyankar</div>  
-          </div>
-          <div class="flip-card-back">
-            <div class="mentor-name-back">Ishaan Abhyankar</div>
-            <p>Hey there! I am Ishaan, the Institute Humor Nominee. If you ever want to hear a joke, just email me :) I am also a huge cricket and F1 enthusiast. I have also been part of the Student Satellite Program, and have interests in Machine Learning and Finance. I am from Mumbai, and yes, it sucks.</p>
-            <div class="icon-div">
-              <a href="mailto:ishaan181203@gmail.com">
-                <i class="fa fa-envelope flip-card-icon"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-30px ">
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Priyanth Elango.jpeg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_24/Priyanth Elango.jpeg" alt="Avatar">
             <div class="mentor-name-front">Priyanth Elango</div>  
           </div>
           <div class="flip-card-back">
             <div class="mentor-name-back">Priyanth Elango</div>
-            <p>Dear Reader, I presume you've already seen my name. I am currently the Head of Mobility in the Mars Rover Team. Barring my academic obligations, you'll likely find me flipping through a well-written high fantasy or trawling the Cosmere wiki for something new to hyper-obsess over. Hit me up anytime :) </p>
+            <p>Barring my academic obligations, you'll likely find me flipping through a well-written high fantasy or trawling wiki pages for something new to hyper-obsess over.</p>
             <div class="icon-div">
               <a href="mailto:elangopriyanth@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
@@ -680,14 +167,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Mannat Kaur.jpg" alt="Avatar">
-            <div class="mentor-name-front">Mannat Kaur </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Asmi Rangnekar.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Asmi Rangnekar</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Mannat Kaur </div>
-            <p>Hi! I'm a continuing mentor, and was on the insight editorial board last year. I did an internship at Accenture this summer, so just one of the many consulting folks you'll find here :) always up for a conversation so feel free to hit me up! </p>
+            <div class="mentor-name-back">Asmi Rangnekar</div>
+            <p>Apart from coding, my hobbies include singing, dancing, reading, travelling and watching movies</p>
             <div class="icon-div">
-              <a href="mailto:200100095@iitb.ac.in">
+              <a href="mailto:asmimr83@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -699,14 +186,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Meenal Agarwal.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Meenal Agarwal</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Dhriti Maniar.jpg" alt="Avatar">
+            <div class="mentor-name-front">Dhriti Maniar</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Meenal Agarwal</div>
-            <p>Hey! I am Meenal, and hail from Kolkata. I love fine arts and stand up. Catch up anytime to share jokes or Vinci’s content :)</p>
+            <div class="mentor-name-back">Dhriti Maniar</div>
+            <p></p>
             <div class="icon-div">
-              <a href="mailto:200040080@iitb.ac.in">
+              <a href="mailto:22b2176@iitb.ac.in">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -718,14 +205,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Manav Gada.jpg" alt="Avatar">
-            <div class="mentor-name-front">Manav Gada</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Sahaj Shah.JPG" alt="Avatar">
+            <div class="mentor-name-front">Sahaj Shah</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Manav Gada</div>
-            <p>Hi there! I'm passionate about music, spending hours lost in captivating melodies. Besides that, I'm an avid player of basketball and volleyball, enjoying the thrill of these sports. Hitting the gym is another love of mine, as I prioritize my fitness. In terms of career interests, I'm fascinated by core mechanical domains (ManPro and HT). Nice to meet you!</p>
+            <div class="mentor-name-back">Sahaj Shah</div>
+            <p>Interested in mechanical, physical fitness, mountaineering and reading; above all of these, peace </p>
             <div class="icon-div">
-              <a href="mailto:gadamanav@gmail.com">
+              <a href="mailto:i.sahaj.sid@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -737,14 +224,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/pratham kulkarni.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Pratham Kulkarni</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Siddhi Deshpande.jpg" alt="Avatar">
+            <div class="mentor-name-front">Siddhi Deshpande</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Pratham Kulkarni</div>
-            <p>Im a motorsport and fitness enthusiast. Love intellectually stimulating tasks and travelling</p>
+            <div class="mentor-name-back">Siddhi Deshpande</div>
+            <p>Nihao! Myself Siddhi. I am always up to try new places. You will most likely find me with a cup of coffee</p>
             <div class="icon-div">
-              <a href="mailto:prathamkulkarni2003@gmail.com">
+              <a href="mailto:siddhi2244@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -756,14 +243,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Anushka Kokate.jpg" alt="Avatar">
-            <div class="mentor-name-front">Anushka Kokate</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Shubham Agarwal.jpg" alt="Avatar">
+            <div class="mentor-name-front">Shubham Agarwal</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Anushka Kokate</div>
-            <p>Hello! Anushka Kokate here! An art enthusiast, who paints, crochets, and finds cute packaging more exciting than whats inside. I've quite recently developed an interest in travelling, exploring cultures, history and experimenting with food. Always up for a philosophical discussion or two :) </p>
+            <div class="mentor-name-back">Shubham Agarwal</div>
+            <p>Heyy, be it music, guitar, debating, TT, fitness, dance, food or sleeping, always up for a chat</p>
             <div class="icon-div">
-              <a href="mailto:Anush02k@gmail.com ">
+              <a href="mailto:shubham2003.sa@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -775,14 +262,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Sneha Kulkarni.jpg" alt="Avatar">
-            <div class="mentor-name-front">Sneha Kulkarni</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Ved Parulekar.jpg" alt="Avatar">
+            <div class="mentor-name-front">Ved Parulekar</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Sneha Kulkarni</div>
-            <p>Hey everyone, I am Sneha Kulkarni, a to-be-fourthie from Mech. I love music. I have been trained in singing for quite long and have recently put up an Original composition "Birha" on Spotify. I am generally everyone's walking radio :) I also like travelling and binging shows. Looking forward to an amazing DAMP tenure. </p>
+            <div class="mentor-name-back">Ved Parulekar</div>
+            <p>I am Ved, extremely interested in consulting and finance.I am also a die hard TBBT fan. Bazinga !</p>
             <div class="icon-div">
-              <a href="mailto:snehaskulkarni2002@gmail.com">
+              <a href="mailto:parulekarved@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -794,14 +281,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Kushal Agarwal.jpg" alt="Avatar">
-            <div class="mentor-name-front">Kushal Agarwal</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Jaza Ansari.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Jaza Ansari</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Kushal Agarwal</div>
-            <p>Hello dear people of my branch. I am one guy crazy about robotics and loves core engineering. I have always been interested in building things of my own and would love to tinker with anyone who knocks at my door. I am a profound fan of binge watching, so you have got yourself a streaming partner. I explore every chance I get and have tasted salt from all seas.</p>
+            <div class="mentor-name-back">Jaza Ansari</div>
+            <p>Mech, Tech & Design pretty much concludes me. I am into core, and coffee talks (no sugar) I love Urdu literature. My hobbies include crocheting, painting & clay modelling.</p>
             <div class="icon-div">
-              <a href="mailto:kushalagarwal444@gmail.com">
+              <a href="mailto:jazaansari9309@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -813,14 +300,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Arjun Simha.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Arjun Simha </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Karrthik Radhakrishnan.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Karrthik Radhakrishnan</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Arjun Simha </div>
-            <p>Hey, I’m Arjun a thirdie in the department! I love playing basketball, hitting the gym, and I’m also a huge foodie.</p>
+            <div class="mentor-name-back">Karrthik Radhakrishnan</div>
+            <p>Addicted to chai, football and movies. Into machine learning and can tolerate maths, atleast until it starts to make no sense. Words I live by- "" You miss 100% of the shots you don't take " - Michael Scott" . Looking forward to being a DAMP mentor and guiding students to achieve great success.</p>
             <div class="icon-div">
-              <a href="mailto:Arjun.s.simha@gmail.com">
+              <a href="mailto:karrthikradhakrishnan04@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -832,14 +319,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Arushi Srivastava.jpg" alt="Avatar">
-            <div class="mentor-name-front">Arushi Srivastava</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Parul Diwan.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Parul Diwan</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Arushi Srivastava</div>
-            <p>Hey, I'm Arushi Srivastava. I was a Literati convenor in my 2nd year and am currently the ELP Cabinet Head. As you might have guessed, my hobbies include reading and writing. I also like watching those videos that analyse movies. Ironically, I still can't find words to finish this introduction properly.</p>
+            <div class="mentor-name-back">Parul Diwan</div>
+            <p>Hey! I'm Parul. I love chai and cricket (a typical Indian, yes). But I aspire to travel all around the world, live in different countries, read many many books and write a lot of poetry. Some of my other hobbies include trekking, playing football, dramatics and watching sitcoms.</p>
             <div class="icon-div">
-              <a href="mailto:arushisrivastava123@gmail.com">
+              <a href="mailto:paruldiwan71@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -851,14 +338,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Sahil Kumar.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Sahil Kumar </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Yash Tangri.jpg" alt="Avatar">
+            <div class="mentor-name-front">Yash Tangri</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Sahil Kumar </div>
-            <p>Fifthie (never felt this old), I'm a die-hard sports fan and you would typically either find me defending my fav football team Spurs (yes, please don't judge) despite their shambolic performances, or rubbing Verstappen's wins into other people's noses. Also love travelling, which is the usually the story of every kid who's father is in the Army/Navy, making me no different. Always up for a conversation, so feel free to reach out :)</p>
+            <div class="mentor-name-back">Yash Tangri</div>
+            <p>Hello there! My interests include literature and films, except that I last read a book a year ago and binge watch The Office all the time. I'm always up for long-small talks. </p>
             <div class="icon-div">
-              <a href="mailto:sahilku2002@gmail.com">
+              <a href="mailto:yashtangri3@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -870,14 +357,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Pratik Shah.jpg" alt="Avatar">
-            <div class="mentor-name-front">Pratik Chetan Shah </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Dileep Devarajan.jpg" alt="Avatar">
+            <div class="mentor-name-front">Dileep Devarajan</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Pratik Chetan Shah </div>
-            <p>Hi everyone! Pratik here from Mumbai. I am a huge sports and fitness enthusiast and follow football closely.  On the "work" side I am interested in the fields of data science and robotics. Not much of a texter but am up for talking on calls :)</p>
+            <div class="mentor-name-back">Dileep Devarajan</div>
+            <p></p>
             <div class="icon-div">
-              <a href="mailto:pratik2002shah@gmail.com">
+              <a href="mailto:dildev098@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -889,14 +376,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Sharun Nikesh.jpg" alt="Avatar">
-            <div class="mentor-name-front">Sharun Nikesh G </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Taniishq Kadam.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Taniishq Kadam</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Sharun Nikesh G </div>
-            <p>I am currently in my third year. I love debating, there is a fair chance I'd be in a different city on a given weekend to taking part in a tournament. Now, when I'm not busy arguing my heart out, I'm a big fan of F1, Cricket, and the Premier League. I live for food </p>
+            <div class="mentor-name-back">Taniishq Kadam</div>
+            <p>The Mumbaikar who orders food from home and eats 3 fruits everyday! Long walks and deep thoughts, Swimming, Music, Football</p>
             <div class="icon-div">
-              <a href="mailto:sharunnikesh@gmail.com">
+              <a href="mailto:taniishq.sk@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -908,14 +395,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Kalash Shah.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Kalash Shah </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Aditi Agrawal.jpg" alt="Avatar">
+            <div class="mentor-name-front">Aditi Agrawal</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Kalash Shah </div>
-            <p>Konnichiwa! I am Kalash Shah, a fourth-year student and a tech enthusiast. I was the Analytics Club Manager in the UGAC. I am pursuing dual minors in CS and am interested in AI and applied computational sciences (like XR). I interned at Sony this summer and well discovered my love for Solo - trips in Japan. I am a sports enthusiast and also like to dance along with exploring amazing new places</p>
+            <div class="mentor-name-back">Aditi Agrawal</div>
+            <p>I'm Aditi. I meditate, practice yoga, and am kinda ambidextrous. I like dancing, reading, and recreational activities. I'm always up for meeting and connecting with people.</p>
             <div class="icon-div">
-              <a href="mailto:kalashsshah@gmail.com">
+              <a href="mailto:ashnie.agl6556@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -927,14 +414,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Kushagra Chindak.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Kushagra Chindak</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Abhijith Vinod.jpg" alt="Avatar">
+            <div class="mentor-name-front">Abhijith Vinod</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Kushagra Chindak</div>
-            <p>Hello, I'm currently pursuing a minor in ENT and interested in the non - core side. I love travelling, sports, reading and learning new things.</p>
+            <div class="mentor-name-back">Abhijith Vinod</div>
+            <p>I am a big fan of Webseries and movies.Hit me up for series and horror movie suggestions.</p>
             <div class="icon-div">
-              <a href="mailto:kushagra.chindak@gmail.com">
+              <a href="mailto:abhijithvinod2019@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -946,14 +433,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Anurag Deshpande.jpg" alt="Avatar">
-            <div class="mentor-name-front">Anurag Deshpande</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Siddhant Gada.PNG" alt="Avatar">
+            <div class="mentor-name-front">Siddhant Gada</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Anurag Deshpande</div>
-            <p>I am a part of the tech team AUV-IITB in the mechanical subdivision, am pursuing CS and DS minors and have been a TA for CS101 and MA108. I like to think that I’m equal parts silly and fun and give off wise old man vibes. My interests keep varying from time to time, contact me to find out more :)</p>
+            <div class="mentor-name-back">Siddhant Gada</div>
+            <p>Pro procrastinator. Always up for a conversation, feel free to reach out to me anytime</p>
             <div class="icon-div">
-              <a href="mailto:anuragdeshpande31@gmail.com">
+              <a href="mailto:siddhantgada7@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -965,14 +452,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Jinay Nandu.jpg" alt="Avatar">
-            <div class="mentor-name-front">Jinay Nandu </div>  
+            <img class="mentor-image" src="../assets/team_images_24/Ashlesha Shelke.png" alt="Avatar">
+            <div class="mentor-name-front">Ashlesha Shelke</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Jinay Nandu </div>
-            <p>A travel buff. Love adventures and binge watching movies. Always up for a chat hit me up anytime!</p>
+            <div class="mentor-name-back">Ashlesha Shelke</div>
+            <p>Hey everyone ! I'm a thirdie in Mech who’s an explorer at heart, a music lover blending introvert/extrovert vibes with creativity and curiosity. Always up for philosophical discussions and night walks</p>
             <div class="icon-div">
-              <a href="mailto:jinaynandu@gmail.com">
+              <a href="mailto:ashu27v.v5shelke2004@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -984,14 +471,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ojas Jain.png" alt="Avatar">
-            <div class="mentor-name-front">Ojas Jain</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Ashok Nayak.jpg" alt="Avatar">
+            <div class="mentor-name-front">Ashok Nayak</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Ojas Jain</div>
-            <p>I'm an average Delhi kid, brimming with extroversion, fueled by a passion for music and food. While my love for crashing cars might raise an eyebrow or two, I assure you it's confined to virtual realms (or is it ?). As a third-year undergraduate student in India, I'm navigating the exciting journey of life, seeking experiences and connections. Always up for a dive into an engaging conversation over a glass of Aamras !</p>
+            <div class="mentor-name-back">Ashok Nayak</div>
+            <p>Hi, I'm Ashok. I'm from Mumbai. I enjoy playing chess and athletics, but in my free time, I also binge-watch a lot of netflix xd</p>
             <div class="icon-div">
-              <a href="mailto:210100103@iitb.ac.in">
+              <a href="mailto:ashu.nayakoct@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -1003,14 +490,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Saayuj Sameer Deshpande.jpg" alt="Avatar">
-            <div class="mentor-name-front">Saayuj Deshpande</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Mudit Sethia.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Mudit Sethia</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Saayuj Deshpande</div>
-            <p>Heyo I am Saayuj, a fourth year student in Mechanical Engineering. I love travelling and exploring new places. I am a lawn tennis enthusiast and love reading books. My interests lie in research in the fields of Robotics & Controls. I am from Bombay itself and would love to meet with you! :)</p>
+            <div class="mentor-name-back">Mudit Sethia</div>
+            <p>I know the best coffee places (all free) in Insti.</p>
             <div class="icon-div">
-              <a href="mailto:200100139@iitb.ac.in">
+              <a href="mailto:muditsethia13@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -1022,14 +509,261 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Anubha Vyasamudri.jpeg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_24/Yash Gupta.jpg" alt="Avatar">
+            <div class="mentor-name-front">Yash Gupta</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Yash Gupta</div>
+            <p>Love playing guitar and everything about music and cricket too</p>
+            <div class="icon-div">
+              <a href="mailto:yashg1810@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Krishna Patil.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Krishna Patil</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Krishna Patil</div>
+            <p>I love playing the guitar and music in general along with fitness and exploring new places</p>
+            <div class="icon-div">
+              <a href="mailto:krishnapatil235711@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Bhakti Joshi.PNG" alt="Avatar">
+            <div class="mentor-name-front">Bhakti Joshi</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Bhakti Joshi</div>
+            <p>Hey Guys! This is Bhakti. I like reading, dancing, listening to music. I also love to talk so you guys can ping me with any queries I'd be happy to help!</p>
+            <div class="icon-div">
+              <a href="mailto:bhaktijoshi6125@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Khushajh Verma.jpg" alt="Avatar">
+            <div class="mentor-name-front">Khushajh Verma</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Khushajh Verma</div>
+            <p>Hi everyone!! I like to explore different stuff and often end up thinking a lot about what to do, Apart from overthinking, I usually involve myself in watching movies</p>
+            <div class="icon-div">
+              <a href="mailto:khushajh2004@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Ishan Pandit.jpg" alt="Avatar">
+            <div class="mentor-name-front">Ishan Pandit</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Ishan Pandit</div>
+            <p>hobbies - piano, guitar, singing (completed all TRINITY exams in both piano and guitar) (inter IIT music gold winner in 1st year), facts - professional sleeper and procrastinator, brooklyn nine-nine lover</p>
+            <div class="icon-div">
+              <a href="mailto:ishanbp12@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Bhushan Khandare.jpg" alt="Avatar">
+            <div class="mentor-name-front">Bhushan Khandare</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Bhushan Khandare</div>
+            <p>Hello, I am Bhushan a 20-year-old from Solapur, the things that lighten my world are Cricket, Geopolitics, Sci-Fi Movies, travelling and definitely some spicy food.</p>
+            <div class="icon-div">
+              <a href="mailto:bhushan6.bk@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Varun Kulkarni.jpg" alt="Avatar">
+            <div class="mentor-name-front">Varun Kulkarni</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Varun Kulkarni</div>
+            <p>Hey there, I'm Varun Kulkarni. I'm an automobile enthusiast and I have an interest in finance too. I like playing Badminton and watching movies.</p>
+            <div class="icon-div">
+              <a href="mailto:varun.kulkarni721@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Yashvi Bhuva.jpg" alt="Avatar">
+            <div class="mentor-name-front">Yashvi Bhuva</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Yashvi Bhuva</div>
+            <p>I am a gujju so obviously I am a very big foodie! I like to travel and explore new places (to eat). I love star gazing and making new friends and hence I am always up chit chat over chai!</p>
+            <div class="icon-div">
+              <a href="mailto:yashvih.bhuva@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Aryan Chordia.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Aryan Chordia</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Aryan Chordia</div>
+            <p>Hi there! Football fanatic and dessert lover here.</p>
+            <div class="icon-div">
+              <a href="mailto:chordiaaryan1@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Akshat Kumar.jpg" alt="Avatar">
+            <div class="mentor-name-front">Akshat Kumar</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Akshat Kumar</div>
+            <p>Akshat this side...I like to play guitar, football. I'm very passionate about technology and learn to explore new cool tech</p>
+            <div class="icon-div">
+              <a href="mailto:ak8akshat@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Ashutosh Agarwal.jpg" alt="Avatar">
+            <div class="mentor-name-front">Ashutosh Agarwal</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Ashutosh Agarwal</div>
+            <p>Ashutosh here from Kolkata, I enjoy reading and travelling among other things. My hobbies are sleeping(period) and I am a coffee addict(To counteract my hobby)., Contact me if you wanna join for badminton someday. Peace...</p>
+            <div class="icon-div">
+              <a href="mailto:22b2187@iitb.ac.in">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Mansi Ahire.jpeg" alt="Avatar">
+            <div class="mentor-name-front">Mansi Ahire</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Mansi Ahire</div>
+            <p>Hi, I'm Mansi, hailing from Nashik! I'm a classical dancer, love playing guitar, and I'm an irregular travelling and trekking enthusiast.</p>
+            <div class="icon-div">
+              <a href="mailto:210100094@iitb.ac.in">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Anusha Dhakras.PNG" alt="Avatar">
+            <div class="mentor-name-front">Anusha Dhakras</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Anusha Dhakras</div>
+            <p>Hey, I am Anusha, and I am from Mumbai. I am a big foodie and really into watching web series and fiction reading. I love playing badminton and a huge chai addict so always up for conversations over a cup of tea!</p>
+            <div class="icon-div">
+              <a href="mailto:dhakrasanusha@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Anubha Vyasamudri.jpg" alt="Avatar">
             <div class="mentor-name-front">Anubha Vyasamudri</div>  
           </div>
           <div class="flip-card-back">
             <div class="mentor-name-back">Anubha Vyasamudri</div>
-            <p>Hi! My interests mainly lie in Data Science and Analytics. I absolutely love dancing and I've trained classically. I swim and I participated in Inter IIT Aquatics last year, I used to be a sports convenor too. I love binging shows and deep conversations, feel free to hit me up for random discussions about anything :)</p>
+            <p>Hi! I am Anubha, I am a fourthie originally from Bangalore. I love swimming, dancing and bingeing TV shows. I am always up for talking about anything and everything, feel free to hit me up</p>
             <div class="icon-div">
-              <a href="mailto:vyasamudrianubha@gmail.com">
+              <a href="mailto:210100019@iitb.ac.in">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -1041,14 +775,14 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Ritwik Gupta.jpeg" alt="Avatar">
-            <div class="mentor-name-front">Ritwik Gupta</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Nayantara Ramakrishnan.jpg" alt="Avatar">
+            <div class="mentor-name-front">Nayantara Ramakrishnan</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Ritwik Gupta</div>
-            <p>I am a to-be-fifthie in the Department of Mechanical Engineering. I enjoy reading and cycling in my free time. </p>
+            <div class="mentor-name-back">Nayantara Ramakrishnan</div>
+            <p>My inability to pick a flavour of ice cream or a topic to research on is because of how much I love both. It's definitely not a sign of my indecisiveness. When I'm not looking for interesting new food to try out, I’m debating or finding new landscapes to look at.</p>
             <div class="icon-div">
-              <a href="mailto:ritwikgupta@iitb.ac.in">
+              <a href="mailto:nayana.ram03@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
@@ -1060,14 +794,33 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images/Vidyut Balaji.jpg" alt="Avatar">
-            <div class="mentor-name-front">Vidyut Balaji</div>  
+            <img class="mentor-image" src="../assets/team_images_24/Aryan Bhosale.jpg" alt="Avatar">
+            <div class="mentor-name-front">Aryan Bhosale</div>  
           </div>
           <div class="flip-card-back">
-            <div class="mentor-name-back">Vidyut Balaji</div>
-            <p>I am from Chennai, and have a wide range of languages in my arsenal. I have a deep appreciation for various sports. Exploring different cultures through travel is a personal delight, and I find solace in the kitchen, experimenting with new food ideas. I have completed one research intern in Hokkaido University and a semester exchange at KAIST University, South Korea and looking to see where the world takes me next. My research expertise lies in controls, specifically in the realm of robotics. </p>
+            <div class="mentor-name-back">Aryan Bhosale</div>
+            <p>In my free time, I love to write (I don't like to read as much) and play basketball. Have an active interest in all things tech, especially machine learning. Like every other person at insti, I love to consume all kinds of content (OTT, movies, series, you name it) and am always on the lookout for more interesting content (of literally any genre). I've spent most of my time in insti working in tech - and always look forward to discuss what's up and coming. Don't hesitate to reach out, I believe I'd be helpful at talking internships (corporate or research), research at IITB, tech teams, PoRs or even just acads. My advice to any junior: Keep exploring and keep busy! There's infinite opportunities on campus to pursue any interest of yours, whether its the acting or dancing or singing or research or painting or sports or anything under the Sun. (Who says you have to pick just one?) Use your time at insti to the fullest.. At the same time, "Work hard, but party harder".  That's Aryan from Mumbai for you</p>
             <div class="icon-div">
-              <a href="mailto:vidyut.s.balaji@gmail.com">
+              <a href="mailto:aryanvijay09@gmail.com">
+                <i class="fa fa-envelope flip-card-icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Shivesh Gupta.jpg" alt="Avatar">
+            <div class="mentor-name-front">Shivesh Gupta</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Shivesh Gupta</div>
+            <p>Hey Shivesh here !  When I am not coding I am binging MKBHD, mrwhosetheboss or some Think School Stuff. I love to take a swim in a while. Also a pseudo fitness enthusiast who reads and watches how to get fit while staying on the same chair the entire day. Finance and Business is also interesting bcoz who doesn't love extra money right. As of Today - IPO non-allocation streak (7/7)</p>
+            <div class="icon-div">
+              <a href="mailto:shiveshanjaligupta@gmail.com">
                 <i class="fa fa-envelope flip-card-icon"></i>
               </a>
             </div>
