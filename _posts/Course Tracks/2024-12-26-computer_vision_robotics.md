@@ -13,42 +13,42 @@ UG students pursuing a Minor in Robotics can choose to complete all theory cours
 It is not necessarily recommended to choose all the courses recommended for a particular semester, please take your time commitments and the credit limits into consideration.
 
 ### 3rd Semester: 
-AE 306 Control Theory (Either AE 306 or EE 302; equivalent courses)
-AE 410 Navigation and Guidance
-SC 618 Geometric and Analytic Dynamics
+- AE 306 Control Theory (Either AE 306 or EE 302; equivalent courses)
+- AE 410 Navigation and Guidance
+- SC 618 Geometric and Analytic Dynamics
 
 ### 4th Semester: 
-AE 305 Flight Mechanics II
-ME 604 Robotics
-EE 302 Control Systems (Either AE 306 or EE 302; equivalent courses )
-SC 624 Differential Geometric Techniques in Control
+- AE 305 Flight Mechanics II
+- ME 604 Robotics
+- EE 302 Control Systems (Either AE 306 or EE 302; equivalent courses )
+- SC 624 Differential Geometric Techniques in Control
 
 ### 5th Semester: 
-EE 617 Sensors In Instrumentation
-EE 657 Electric Drives
-CS 663 Fundamentals of Digital Image Processing
-ME 311 Microprocessor and Automatic Control (Either ME 311 or EE 309; equivalent courses)
-SC 655 Random Processes in Learning and Control
+- EE 617 Sensors In Instrumentation
+- EE 657 Electric Drives
+- CS 663 Fundamentals of Digital Image Processing
+- ME 311 Microprocessor and Automatic Control (Either ME 311 or EE 309; equivalent courses)
+- SC 655 Random Processes in Learning and Control
 
 ### 6th Semester:
-AE 666 Adaptive and Learning Control Systems
-AE 700 Guidance and control of unmanned autonomous vehicles
-CS 747 Foundations of Intelligent and Learning Agents
-EE 622 Optimal Control Systems
-EE 309 Microprocessors (Either ME 311 or EE 309; equivalent courses )
-ME 6114 Joint Biomechanics
-ME 748 Computer Aided Simulation of Machines
-SC 627 Motion Planning & Coordination of Autonomous Vehicles
+- AE 666 Adaptive and Learning Control Systems
+- AE 700 Guidance and control of unmanned autonomous vehicles
+- CS 747 Foundations of Intelligent and Learning Agents
+- EE 622 Optimal Control Systems
+- EE 309 Microprocessors (Either ME 311 or EE 309; equivalent courses )
+- ME 6114 Joint Biomechanics
+- ME 748 Computer Aided Simulation of Machines
+- SC 627 Motion Planning & Coordination of Autonomous Vehicles
 
 ### 7th Semester:
-SC 649 Embedded Control & Robotics
-ME 6102 Design of Mechatronic Systems
-GNR 607 Satellite Image Processing (not for Minor)
-BTP/ SLP
+- SC 649 Embedded Control & Robotics
+- ME 6102 Design of Mechatronic Systems
+- GNR 607 Satellite Image Processing (not for Minor)
+- BTP/ SLP
 
 ### 8th Semester:
-CS 684 Embedded Systems (Either CS 684 or EE 712; equivalent courses)
-EE 712 Embedded System Design (Either CS 684 or EE 712; equivalent courses)
-CS 763 Computer Vision
-SC 651 Estimation on Lie Groups
-BTP/ SLP
+- CS 684 Embedded Systems (Either CS 684 or EE 712; equivalent courses)
+- EE 712 Embedded System Design (Either CS 684 or EE 712; equivalent courses)
+- CS 763 Computer Vision
+- SC 651 Estimation on Lie Groups
+- BTP/ SLP

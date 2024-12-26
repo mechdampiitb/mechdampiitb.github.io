@@ -18,36 +18,36 @@ This course track is designed so that a DD student completes their prescribed co
 BTech Elective I
 
 ### 5th Semester (27 core credits): 
-BTech Elective II
+- BTech Elective II  
 Any one of the following
-IE503 Operations Analysis
-ME781 Statistical Machine Learning and Data Mining
+- IE503 Operations Analysis
+- ME781 Statistical Machine Learning and Data Mining
 
 ### 6th Semester (18 core credits):
 Any one of the following:
-ME637 Manufacturing Automation
-ME673 Mathematical Methods for Engineering
+- ME637 Manufacturing Automation
+- ME673 Mathematical Methods for Engineering    
 Any one of the following:
-IE616 Decision Analysis and Game Theory
-ME730 Ultra-precision Machining
+- IE616 Decision Analysis and Game Theory
+- ME730 Ultra-precision Machining
 
 ### 7th Semester (41 credits):
-BTech Electives III and IV
-ME409 Intelligent Manufacturing Systems Lab
+- BTech Electives III and IV
+- ME409 Intelligent Manufacturing Systems Lab  
 Any two of the following:
-IE501/609 Optimization Models
-ME617 Rapid Product Development
-ME756 Numerical Modelling of Manufacturing Processes
-ME735 Computer Graphics and Product Modeling
-ME6110 Nanomanufacturing Processes
+- IE501/609 Optimization Models
+- ME617 Rapid Product Development
+- ME756 Numerical Modelling of Manufacturing Processes
+- ME735 Computer Graphics and Product Modeling
+- ME6110 Nanomanufacturing Processes
 
 ### 8th Semester (36 credits):
-BTech Electives V, VI, VII and VIII
+- BTech Electives V, VI, VII and VIII  
 Any two of the following:
-ME790 Materials modelling using atomistic first-principles calculations
-ME750 Sheet Metal Engineering
-ME768 Introduction to Microsystems Packaging
-ME772 Processing of Aerospace Materials
+- ME790 Materials modelling using atomistic first-principles calculations
+- ME750 Sheet Metal Engineering
+- ME768 Introduction to Microsystems Packaging
+- ME772 Processing of Aerospace Materials
  
 ### 9th and 10th semester (30 and 42 credits):
 Dual Degree Project

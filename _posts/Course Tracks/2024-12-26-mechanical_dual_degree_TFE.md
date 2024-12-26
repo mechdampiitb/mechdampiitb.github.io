@@ -24,33 +24,33 @@ BTech Elective II and III
 BTech Electives IV and V
 
 ### 7th Semester (41 credits):
-ME651 Fluid Dynamics
-ME661 Advanced Thermodynamics
-ME663 Advanced Heat Transfer
-ME704 Computational Methods in Thermal and Fluid Engineering
+- ME651 Fluid Dynamics
+- ME661 Advanced Thermodynamics
+- ME663 Advanced Heat Transfer
+- ME704 Computational Methods in Thermal and Fluid Engineering  
 Any one of the following:
-AE705 Introduction to Flight
-AE711 Aircraft Propulsion
-AE726 Heat Transfer - Aerospace Applications
-EN601 Non-Conventional Energy Sources
-EN618 Energy Systems Modelling and Analysis
-EN613 Nuclear Reactor Theory
-EN632 Waste to Energy
-ME415 Computational Fluid Dynamics and Heat Transfer
+- AE705 Introduction to Flight
+- AE711 Aircraft Propulsion
+- AE726 Heat Transfer - Aerospace Applications
+- EN601 Non-Conventional Energy Sources
+- EN618 Energy Systems Modelling and Analysis
+- EN613 Nuclear Reactor Theory
+- EN632 Waste to Energy
+- ME415 Computational Fluid Dynamics and Heat Transfer
 
 ### 8th Semester (36 credits):
-BTech Electives VI, VII and VIII
-ME657 TFE Lab
+- BTech Electives VI, VII and VIII
+- ME657 TFE Lab  
 Any two of the following
-AE624 Hypersonic Flow Theory
-AE706 Computational Fluid Dynamics
-EN604 Fuel Cells
-EN642 Power Generation and Systems Planning
-EN648 Combustion Engineering
-ME412 CFD and HT Lab ME683 Cryogenics
-ME684 Air Conditioning System Design
-ME724 Essentials of Turbulence
-ME743 Optical Methods in Mechanical Engineering
+- AE624 Hypersonic Flow Theory
+- AE706 Computational Fluid Dynamics
+- EN604 Fuel Cells
+- EN642 Power Generation and Systems Planning
+- EN648 Combustion Engineering
+- ME412 CFD and HT Lab ME683 Cryogenics
+- ME684 Air Conditioning System Design
+- ME724 Essentials of Turbulence
+- ME743 Optical Methods in Mechanical Engineering
  
 ### 9th and 10th semester (30 and 42 credits):
 Dual Degree Project

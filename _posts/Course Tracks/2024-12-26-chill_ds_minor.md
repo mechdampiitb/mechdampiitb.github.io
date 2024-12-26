@@ -18,8 +18,8 @@ DS203 Programming for Data Science
 DS303/CS419 Introduction to Machine Learning
 
 ### 5th Semester: 
-ME781 Statistical Machine Learning and Data Mining (DS elective)
-ET610 Learning Analytics and Educational Data Mining (DS elective)
+- ME781 Statistical Machine Learning and Data Mining (DS elective)
+- ET610 Learning Analytics and Educational Data Mining (DS elective)
 
 ### 6th Semester:
 GNR 638 Machine Learning for Remote Sensing II (DS elective)

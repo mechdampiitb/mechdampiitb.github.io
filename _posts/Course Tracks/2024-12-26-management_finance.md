@@ -19,22 +19,22 @@ It is recommended that students plan ahead for this minor due to inadequate facu
 MG401 Marketing Management
 
 ### 4th Semester: 
-MG406 Operations Management
-EC457 Managerial Economics
+- MG406 Operations Management
+- EC457 Managerial Economics
 
 ### 5th Semester: 
-MG403 Accounting and Finance
-ENT609 Marketing and Finance for Entrepreneurs
+- MG403 Accounting and Finance
+- ENT609 Marketing and Finance for Entrepreneurs
 
 ### 6th Semester:
-MG405 Project Management
-EC440 Industrial Economics
-ENT618 Venture Capital (3 credits)
+- MG405 Project Management
+- EC440 Industrial Economics
+- ENT618 Venture Capital (3 credits)
 
 ### 7th Semester:
-EC402 Game Theory and Economic Analysis or
-SC631 Games and Information
+- EC402 Game Theory and Economic Analysis or
+- SC631 Games and Information
 
 ### 8th Semester:
-MG402 Resource Management
-IE648 Quantitative Analysis in Finance and Marketing
+- MG402 Resource Management
+- IE648 Quantitative Analysis in Finance and Marketing

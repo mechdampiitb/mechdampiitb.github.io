@@ -12,16 +12,16 @@ hidden: false
 This minor can cater to diverse sets of interests ranging from quantum mechanics to solid-state physics to astrophysics to relativity. You need to do 5 courses of 6 credits each (30+ credits). There are three compulsory minor courses and you can select the other two courses from the basket of courses that the Department of Physics offers ([Handbook](https://www.phy.iitb.ac.in/sites/www.phy.iitb.ac.in/files/handbook_physics_2024-2025_1.pdf)).
 
 ### 3rd Semester: 
-PH251: Classical Mechanics (or equivalent PH217 (EP core course))
-PH403: Equivalent of PH252
+- PH251: Classical Mechanics (or equivalent PH217 (EP core course))
+- PH403: Equivalent of PH252
 
 ### 4th Semester: 
-PH252: Introduction to Quantum Mechanics (or equivalent PH225 (EP core course))
-PH216(EP core course)/PH410/PH438:  Equivalent of PH253
+- PH252: Introduction to Quantum Mechanics (or equivalent PH225 (EP core course))
+- PH216(EP core course)/PH410/PH438:  Equivalent of PH253
 
 ### 5th Semester: 
-PH253: Thermal and Statistical Physics
-PH436: Equivalent of PH352
+- PH253: Thermal and Statistical Physics
+- PH436: Equivalent of PH352
 
 ### 6th Semester:
 PH352: Introduction to Condensed Matter Physics (recommended minor course)

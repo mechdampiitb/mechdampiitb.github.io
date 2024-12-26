@@ -21,29 +21,29 @@ BTech Elective I
 BTech Elective II and III
 
 ### 6th Semester (45 credits):
-BTech Elective IV
+- BTech Elective IV  
 Any one of the following:
-ME673 Mathematical Methods for Engineering
-ME621 Mathematical Methods for Mechanics and Dynamics
+- ME673 Mathematical Methods for Engineering
+- ME621 Mathematical Methods for Mechanics and Dynamics
 
 ### 7th Semester (41 credits):
-BTech Elective V and VI
+- BTech Elective V and VI  
 Any three of the following:
-ME766 High Performance Scientific Computing
-ME6102 Design of Mechatronic Systems (only if interested in ME316 KDoM) ME617 Rapid Product Development
-ME782 Design Optimization
-ME735 Computer Graphics and Product Modeling
+- ME766 High Performance Scientific Computing
+- ME6102 Design of Mechatronic Systems (only if interested in ME316 KDoM) ME617 Rapid Product Development
+- ME782 Design Optimization
+- ME735 Computer Graphics and Product Modeling
 
 ### 8th Semester (36 credits):
-BTech Elective VII and VIII
+- BTech Elective VII and VIII  
 Any four of the following:
-ME604 Robotics
-ME6114 Joint Biomechanics
-ME637 Manufacturing Automation
-ME754 Textile Machines Design and Automation
-ME616 Fracture Mechanics
-ME613 Finite Element and Boundary Element Methods
-SC607 Optimization
+- ME604 Robotics
+- ME6114 Joint Biomechanics
+- ME637 Manufacturing Automation
+- ME754 Textile Machines Design and Automation
+- ME616 Fracture Mechanics
+- ME613 Finite Element and Boundary Element Methods
+- SC607 Optimization
  
 ### 9th and 10th semester (30 and 42 credits):
 Dual Degree Project

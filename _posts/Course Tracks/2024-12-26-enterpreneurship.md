@@ -20,18 +20,18 @@ ENT603 Introduction to Entrepreneurship (pre-req for many courses and a good int
 ENT602 Technology Venture Creation
 
 ### 5th Semester: 
-ENT612 Field Immersion for Researchers and Entrepreneurs
-ENT615 Strategy and Entrepreneurship for Leaders (3 credits)
+- ENT612 Field Immersion for Researchers and Entrepreneurs
+- ENT615 Strategy and Entrepreneurship for Leaders (3 credits)
 
 ### 6th Semester:
-ENT613 Social Enterprise & Inclusive Business
-ENT607 Managing Technological Innovation
-ENT622 Entrepreneurship by Leveraging University Ecosystems
+- ENT613 Social Enterprise & Inclusive Business
+- ENT607 Managing Technological Innovation
+- ENT622 Entrepreneurship by Leveraging University Ecosystems
 
 ### 7th Semester:
-ENT609 Marketing & Finance for Entrepreneurs
-ENT614 B2B Sales & Marketing
+- ENT609 Marketing & Finance for Entrepreneurs
+- ENT614 B2B Sales & Marketing
 
 ### 8th Semester:
-ENT618 Entrepreneurial Financing and VC
-ENT608 Developing a proof of concept (Advanced Lab Course)
+- ENT618 Entrepreneurial Financing and VC
+- ENT608 Developing a proof of concept (Advanced Lab Course)
