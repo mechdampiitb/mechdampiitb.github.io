@@ -31,7 +31,7 @@ permalink: /team
 <section class="featured-posts">
   <div class="section-title">
     <h2>
-      <span>DAMP Coordinators 2024-25</span>
+      <span>DAMP Coordinators 2025-26</span>
     </h2>
   </div>
   <div class="row">
@@ -39,7 +39,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Parul Diwan.jpeg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Parul Diwan.jpeg" alt="Avatar">
             <div class="mentor-name-front">Parul Diwan</div>
           </div>
           <div class="flip-card-back">
@@ -60,7 +60,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Taniishq Kadam.jpeg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Taniishq Kadam.jpeg" alt="Avatar">
             <div class="mentor-name-front">Taniishq Kadam</div>
           </div>
           <div class="flip-card-back">
@@ -91,7 +91,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Aagam Kasaliwal.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Aagam Kasaliwal.jpg" alt="Avatar">
             <div class="mentor-name-front">Aagam Kasaliwal</div>  
           </div>
           <div class="flip-card-back">
@@ -106,7 +106,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Aarohi Deshpande.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Aarohi Deshpande.jpg" alt="Avatar">
             <div class="mentor-name-front">Aarohi Deshpande</div>  
           </div>
           <div class="flip-card-back">
@@ -121,7 +121,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Adarsh Prajapati.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Adarsh Prajapati.jpg" alt="Avatar">
             <div class="mentor-name-front">Adarsh Prajapati</div>  
           </div>
           <div class="flip-card-back">
@@ -136,7 +136,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Adwait Shelke.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Adwait Shelke.jpg" alt="Avatar">
             <div class="mentor-name-front">Adwait Shelke</div>  
           </div>
           <div class="flip-card-back">
@@ -151,7 +151,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Ajitesh Joshi.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Ajitesh Joshi.png" alt="Avatar">
             <div class="mentor-name-front">Ajitesh Joshi</div>  
           </div>
           <div class="flip-card-back">
@@ -166,7 +166,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Anirudh Maindargikar.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Anirudh Maindargikar.jpg" alt="Avatar">
             <div class="mentor-name-front">Anirudh Maindargikar</div>  
           </div>
           <div class="flip-card-back">
@@ -181,7 +181,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Anousha Puvvala.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Anousha Puvvala.jpeg" alt="Avatar">
             <div class="mentor-name-front">Anousha Puvvala</div>  
           </div>
           <div class="flip-card-back">
@@ -196,7 +196,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Avasthi Jain.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Avasthi Jain.jpg" alt="Avatar">
             <div class="mentor-name-front">Avasthi Jain</div>  
           </div>
           <div class="flip-card-back">
@@ -211,7 +211,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Ayush Lonakadi.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Ayush Lonakadi.jpg" alt="Avatar">
             <div class="mentor-name-front">Ayush Lonakadi</div>  
           </div>
           <div class="flip-card-back">
@@ -226,7 +226,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Ayush Prasad.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Ayush Prasad.jpg" alt="Avatar">
             <div class="mentor-name-front">Ayush Prasad</div>  
           </div>
           <div class="flip-card-back">
@@ -241,7 +241,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Bhagyashree Arote.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Bhagyashree Arote.jpeg" alt="Avatar">
             <div class="mentor-name-front">Bhagyashree Arote</div>  
           </div>
           <div class="flip-card-back">
@@ -256,7 +256,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Bhakti Bansal.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Bhakti Bansal.jpg" alt="Avatar">
             <div class="mentor-name-front">Bhakti Bansal</div>  
           </div>
           <div class="flip-card-back">
@@ -271,7 +271,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/D Maneesha.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/D Maneesha.jpg" alt="Avatar">
             <div class="mentor-name-front">D Maneesha</div>  
           </div>
           <div class="flip-card-back">
@@ -286,7 +286,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Dev Suthar.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Dev Suthar.jpg" alt="Avatar">
             <div class="mentor-name-front">Dev Suthar</div>  
           </div>
           <div class="flip-card-back">
@@ -301,7 +301,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Devarsh Mehta.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Devarsh Mehta.jpeg" alt="Avatar">
             <div class="mentor-name-front">Devarsh Mehta</div>  
           </div>
           <div class="flip-card-back">
@@ -316,7 +316,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Dhriti Singh.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Dhriti Singh.jpeg" alt="Avatar">
             <div class="mentor-name-front">Dhriti Singh</div>  
           </div>
           <div class="flip-card-back">
@@ -331,7 +331,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Dnyaneshwari Kate.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Dnyaneshwari Kate.jpg" alt="Avatar">
             <div class="mentor-name-front">Dnyaneshwari Kate</div>  
           </div>
           <div class="flip-card-back">
@@ -346,7 +346,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Juee Jahagirdar.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Juee Jahagirdar.jpg" alt="Avatar">
             <div class="mentor-name-front">Juee Jahagirdar</div>  
           </div>
           <div class="flip-card-back">
@@ -361,7 +361,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Kaavya Vasu.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Kaavya Vasu.jpg" alt="Avatar">
             <div class="mentor-name-front">Kaavya Vasu</div>  
           </div>
           <div class="flip-card-back">
@@ -376,7 +376,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Keshav Goyal.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Keshav Goyal.jpg" alt="Avatar">
             <div class="mentor-name-front">Keshav Goyal</div>  
           </div>
           <div class="flip-card-back">
@@ -391,7 +391,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Khanjan Parikh.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Khanjan Parikh.jpg" alt="Avatar">
             <div class="mentor-name-front">Khanjan Parikh</div>  
           </div>
           <div class="flip-card-back">
@@ -406,7 +406,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Krishna Gilda.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Krishna Gilda.jpeg" alt="Avatar">
             <div class="mentor-name-front">Krishna Gilda</div>  
           </div>
           <div class="flip-card-back">
@@ -421,7 +421,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Lakshaditya Singh.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Lakshaditya Singh.jpg" alt="Avatar">
             <div class="mentor-name-front">Lakshaditya Singh</div>  
           </div>
           <div class="flip-card-back">
@@ -436,7 +436,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Mahima Sahu.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Mahima Sahu.jpg" alt="Avatar">
             <div class="mentor-name-front">Mahima Sahu</div>  
           </div>
           <div class="flip-card-back">
@@ -451,7 +451,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Muskan.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Muskan.jpg" alt="Avatar">
             <div class="mentor-name-front">Muskan</div>  
           </div>
           <div class="flip-card-back">
@@ -466,7 +466,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Om Inamdar.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Om Inamdar.jpg" alt="Avatar">
             <div class="mentor-name-front">Om Inamdar</div>  
           </div>
           <div class="flip-card-back">
@@ -481,7 +481,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Parag Ingle.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Parag Ingle.jpg" alt="Avatar">
             <div class="mentor-name-front">Parag Ingle</div>  
           </div>
           <div class="flip-card-back">
@@ -496,7 +496,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Parv Jain.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Parv Jain.jpg" alt="Avatar">
             <div class="mentor-name-front">Parv Jain</div>  
           </div>
           <div class="flip-card-back">
@@ -511,7 +511,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Prashant Vashisht.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Prashant Vashisht.png" alt="Avatar">
             <div class="mentor-name-front">Prashant Vashisht</div>  
           </div>
           <div class="flip-card-back">
@@ -526,7 +526,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Pratiksha.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Pratiksha.jpg" alt="Avatar">
             <div class="mentor-name-front">Pratiksha</div>  
           </div>
           <div class="flip-card-back">
@@ -541,7 +541,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Pushp Raj.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Pushp Raj.jpg" alt="Avatar">
             <div class="mentor-name-front">Pushp Raj</div>  
           </div>
           <div class="flip-card-back">
@@ -556,7 +556,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Purvi Rathore.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Purvi Rathore.jpg" alt="Avatar">
             <div class="mentor-name-front">Purvi Rathore</div>  
           </div>
           <div class="flip-card-back">
@@ -571,7 +571,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Rajat Sunda.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Rajat Sunda.jpg" alt="Avatar">
             <div class="mentor-name-front">Rajat Sunda</div>  
           </div>
           <div class="flip-card-back">
@@ -586,7 +586,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Ridhima.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Ridhima.jpg" alt="Avatar">
             <div class="mentor-name-front">Ridhima</div>  
           </div>
           <div class="flip-card-back">
@@ -601,7 +601,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Rohan Joshi.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Rohan Joshi.jpg" alt="Avatar">
             <div class="mentor-name-front">Rohan Joshi</div>  
           </div>
           <div class="flip-card-back">
@@ -616,7 +616,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Rohan Vijaykumar Pandhare.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Rohan Vijaykumar Pandhare.jpg" alt="Avatar">
             <div class="mentor-name-front">Rohan Vijaykumar Pandhare</div>  
           </div>
           <div class="flip-card-back">
@@ -631,7 +631,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Sahaj Shah.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Sahaj Shah.jpg" alt="Avatar">
             <div class="mentor-name-front">Sahaj Shah</div>  
           </div>
           <div class="flip-card-back">
@@ -646,7 +646,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Saumya Mehta.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Saumya Mehta.jpg" alt="Avatar">
             <div class="mentor-name-front">Saumya Mehta</div>  
           </div>
           <div class="flip-card-back">
@@ -661,7 +661,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Sanidhya Katiyar.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Sanidhya Katiyar.jpg" alt="Avatar">
             <div class="mentor-name-front">Sanidhya Katiyar</div>  
           </div>
           <div class="flip-card-back">
@@ -676,7 +676,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Sanit Jethwani.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Sanit Jethwani.jpeg" alt="Avatar">
             <div class="mentor-name-front">Sanit Jethwani</div>  
           </div>
           <div class="flip-card-back">
@@ -691,7 +691,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Shamik Banerjee.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Shamik Banerjee.jpg" alt="Avatar">
             <div class="mentor-name-front">Shamik Banerjee</div>  
           </div>
           <div class="flip-card-back">
@@ -706,7 +706,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Shlok Agrawal.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Shlok Agrawal.jpg" alt="Avatar">
             <div class="mentor-name-front">Shlok Agrawal</div>  
           </div>
           <div class="flip-card-back">
@@ -721,7 +721,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Shriya Bhadane.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Shriya Rahul Bhadane.jpg" alt="Avatar">
             <div class="mentor-name-front">Shriya Bhadane</div>  
           </div>
           <div class="flip-card-back">
@@ -736,7 +736,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Srushti Rajwade.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Srushti Rajwade.jpg" alt="Avatar">
             <div class="mentor-name-front">Srushti Rajwade</div>  
           </div>
           <div class="flip-card-back">
@@ -751,7 +751,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Vanshika Bansal.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Vanshika Bansal.jpg" alt="Avatar">
             <div class="mentor-name-front">Vanshika Bansal</div>  
           </div>
           <div class="flip-card-back">
@@ -766,7 +766,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Ved Parulekar.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Ved Parulekar.jpg" alt="Avatar">
             <div class="mentor-name-front">Ved Parulekar</div>  
           </div>
           <div class="flip-card-back">
@@ -781,7 +781,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Vijaylaxmi Maitri.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Vijaylaxmi Maitri.jpeg" alt="Avatar">
             <div class="mentor-name-front">Vijaylaxmi Maitri</div>  
           </div>
           <div class="flip-card-back">
@@ -796,7 +796,7 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
-            <img class="mentor-image" src="../assets/team_images_24/Yash Bhake.jpg" alt="Avatar">
+            <img class="mentor-image" src="../assets/team_images_25/Yash Bhake.jpg" alt="Avatar">
             <div class="mentor-name-front">Yash Bhake</div>  
           </div>
           <div class="flip-card-back">
