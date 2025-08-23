@@ -316,6 +316,21 @@ permalink: /team
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
+            <img class="mentor-image" src="../assets/team_images_24/Dhriti Maniar.jpg" alt="Avatar">
+            <div class="mentor-name-front">Dhriti Maniar</div>  
+          </div>
+          <div class="flip-card-back">
+            <div class="mentor-name-back">Dhriti Maniar</div>
+            <p>Hi everyone, I’m Dhriti from Mumbai! You will mostly find me playing table tennis in the new SAC! My unhealthy habits include binging on 10 season long drama series’ and the biggest fiction novels. I am always up for a good chat about any of the above so hit me up if you have any good recommendations:)</p>
+            <div class="icon-div"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-30px ">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
             <img class="mentor-image" src="../assets/team_images_25/Dhriti Singh.jpeg" alt="Avatar">
             <div class="mentor-name-front">Dhriti Singh</div>  
           </div>
