@@ -3,7 +3,7 @@ layout: post
 title:  "Kyoto University Summer Research Intern"
 categories: [Core, Intern]
 tags: [experiences]
-image: assets/images/Interns/kyoto_aagam.jpg
+image: assets/images/Interns/aagam.jpg
 featured: false
 hidden: false
 ---
