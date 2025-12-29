@@ -456,7 +456,8 @@ permalink: /team
           </div>
           <div class="flip-card-back">
             <div class="mentor-name-back">Mahima Sahu</div>
-            <p>Hi! I'm Mahima. I'm bit of an extrovert who can talk about from anything to everything. I love to travel to different places and Selena Gomez songs are on a repeat!  </p>
+            <p>Hey, I’m Mahima.
+            An extrovert who can talk about anything and everything. Always trying new things because staying the same has never been my style. Somewhere between all the chaos, just looking for a little peace in fading light and quiet skies :) </p>
             <div class="icon-div"></div>
           </div>
         </div>
@@ -824,11 +825,3 @@ permalink: /team
     </div>
   </div>
 </section>
-<!-- Pagination
-   ================================================== -->
-   <!-- <div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-    {% include pagination.html %}
-    </span>
- </div> -->
