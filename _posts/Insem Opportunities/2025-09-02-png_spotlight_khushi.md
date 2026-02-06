@@ -3,7 +3,7 @@ layout: post
 title:  "P&G Spotlight (Supply) Experience"
 categories: [Intern]
 tags: [insem_opportunities]
-image: assets/images/logo.png
+image: assets/insem_images/Khushi.jpeg
 featured: false
 hidden: false
 ---
